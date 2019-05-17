@@ -1,10 +1,11 @@
-import React, { Component } from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
 const HamContainer = styled.button`
   display: block;
   padding: 8px 14px;
   cursor: pointer;
+  border: 0;
   background-color: transparent;
   &:hover {
     filter: opacity(50%);
@@ -21,15 +22,18 @@ const HamBox = styled.span`
 const HamInner = styled.span`
   width: 20px;
   height: 2px;
-  background-color: red;
+  background-color: var(--dark-gray);
   position: absolute;
+
+  display: block;
+  top: 50%;
 
   &::before,
   &::after {
     content: "";
     width: 20px;
     height: 2px;
-    background-color: red;
+    background-color: var(--dark-gray);
     position: absolute;
     display: block;
   }
@@ -41,16 +45,14 @@ const HamInner = styled.span`
   }
 `;
 
-class Hamburger extends Component {
-  render() {
-    return (
-      <HamContainer>
-        <HamBox>
-          <HamInner />
-        </HamBox>
-      </HamContainer>
-    );
-  }
+function Hamburger() {
+  return (
+    <HamContainer>
+      <HamBox>
+        <HamInner />
+      </HamBox>
+    </HamContainer>
+  );
 }
 
 export default Hamburger;

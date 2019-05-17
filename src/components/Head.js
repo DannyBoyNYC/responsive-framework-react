@@ -1,6 +1,7 @@
-import React, { Component } from "react";
-import styled from "styled-components";
-import Hamburger from "./Hamburger";
+import React from 'react';
+import styled from 'styled-components';
+import Hamburger from './Hamburger';
+import Logo from './Logo';
 
 const HeadMain = styled.div`
   background-color: #fff;
@@ -10,14 +11,13 @@ const HeadMain = styled.div`
   align-items: center;
 `;
 
-class Head extends Component {
-  render() {
-    return (
-      <HeadMain>
-        <Hamburger />
-      </HeadMain>
-    );
-  }
+function Head() {
+  return (
+    <HeadMain>
+      <Hamburger />
+      <Logo />
+    </HeadMain>
+  );
 }
 
 export default Head;
