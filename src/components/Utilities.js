@@ -1,36 +1,30 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const duh = styled.div``;
+const utilities = ['search', 'watchlist', 'briefcase', 'connect'];
+
+const UtilityContainer = styled.ul`
+  display: flex;
+  white-space: nowrap;
+  padding: 0.5rem;
+  padding-right: 2rem;
+`;
+const UtilityListItem = styled.li`margin-left: 1rem;`;
 
 function Utilities() {
   return (
-    <ul className="utilities">
-      <li>
-        <a className="search" href="#0">
-          <span className="util-icon" />
-          <span className="util-title">Search</span>
-        </a>
-      </li>
-      <li>
-        <a className="watchlist" href="#0">
-          <span className="util-icon" />
-          <span className="util-title">Watchlist</span>
-        </a>
-      </li>
-      <li>
-        <a className="briefcase" href="#0">
-          <span className="util-icon" />
-          <span className="util-title">Briefcase</span>
-        </a>
-      </li>
-      <li>
-        <a className="connect" href="#0">
-          <span className="util-icon" />
-          <span className="util-title">Connect</span>
-        </a>
-      </li>
-    </ul>
+    <UtilityContainer>
+      {utilities.map(util =>
+        <UtilityListItem key={util}>
+          <a className={util} href="#0">
+            <span className="util-icon" />
+            <span className="util-title">
+              {util.charAt(0).toUpperCase() + util.slice(1)}
+            </span>
+          </a>
+        </UtilityListItem>,
+      )}
+    </UtilityContainer>
   );
 }
 
