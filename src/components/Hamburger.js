@@ -22,7 +22,7 @@ const HamBox = styled.span`
 const HamInner = styled.span`
   width: 20px;
   height: 2px;
-  background-color: var(--dark-gray);
+  background-color: var(--light-gray);
   position: absolute;
 
   display: block;
@@ -33,7 +33,7 @@ const HamInner = styled.span`
     content: "";
     width: 20px;
     height: 2px;
-    background-color: var(--dark-gray);
+    background-color: var(--light-gray);
     position: absolute;
     display: block;
   }

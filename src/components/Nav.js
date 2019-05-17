@@ -22,9 +22,16 @@ const GlobalStyle = createGlobalStyle`
   --light-gray: #999999;
   --lightest-gray: #bbbbbb;
 }
+box-sizing: border-box;
 * {
   margin: 0;
   padding: 0;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 body {
   font-family: 'Source Sans Pro', Helvetica, Clean, sans-serif;
