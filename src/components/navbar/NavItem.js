@@ -1,8 +1,8 @@
-import React from "react";
+import React, { useState } from 'react';
 
-import styled from "styled-components";
+import styled from 'styled-components';
 
-import { menuData } from "../data/menu";
+import { menuData } from '../data/menu';
 
 const NavListItem = styled.li``;
 
@@ -18,14 +18,17 @@ const DropDown = styled.ul`
   position: absolute;
 `;
 
-function menuController(key) {
-  console.log(key);
-}
-
 function NavItem(props) {
+  const [vis, setVis] = useState(false);
+
+  const menuController = event => {
+    event.preventDefault();
+    console.log(props.link);
+  };
+
   return (
     <li>
-      <NavLink href={props.link} onClick={menuController(props.link)}>
+      <NavLink href={props.link} onClick={menuController}>
         {props.link}
       </NavLink>
       <DropDown>

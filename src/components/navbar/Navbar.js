@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
-import NavItem from "./NavItem";
+import NavItem from './NavItem';
 
-import styled from "styled-components";
+import styled from 'styled-components';
 
-import { menuData } from "../data/menu";
+import { menuData } from '../data/menu';
 
 const MainNav = styled.nav`
   background-color: var(--link);
@@ -18,14 +18,11 @@ const NavList = styled.ul`
 
 function Navbar() {
   return (
-    <MainNav className='primary'>
+    <MainNav className="primary">
       <NavList>
-        {Object.keys(menuData).map(
-          key => (
-            <NavItem key={key} link={key} />
-          )
-          // console.log(key)
-        )}
+        {Object.keys(menuData).map(key => (
+          <NavItem key={key} link={key} />
+        ))}
       </NavList>
     </MainNav>
   );
