@@ -1,8 +1,10 @@
-import React from 'react';
-import styled from 'styled-components';
-import Hamburger from './Hamburger';
-import Utilities from './Utilities';
-import Logo from './Logo';
+import React from "react";
+
+import styled from "styled-components";
+
+import Hamburger from "./Hamburger";
+import Logo from "./Logo";
+import Utilities from "./Utilities";
 
 const HeadMain = styled.div`
   background-color: #fff;

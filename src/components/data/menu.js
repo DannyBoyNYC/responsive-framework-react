@@ -1,0 +1,30 @@
+export const menuData = {
+  Home: [
+    "Home",
+    "Welcome",
+    "Publications",
+    "Subscriptions",
+    "Signature Reports",
+    "#themes",
+    "Premier Events",
+    "Global Conferences",
+    "Global Forecasts",
+    "Multimedia",
+    "Barclays Live Toolkit",
+    "Barclays Research Services",
+    "Barclays Data Services"
+  ],
+  BARX: [],
+  Commodities: [],
+  Credit: [],
+  "Cross Asset": [],
+  Economics: [],
+  "Emerging Markets": [],
+  Equities: [],
+  FX: [],
+  Indices: [],
+  Rates: [],
+  Municipals: [],
+  "Prime Services": [],
+  "More »️": []
+};

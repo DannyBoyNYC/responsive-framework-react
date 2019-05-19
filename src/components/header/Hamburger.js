@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 const HamContainer = styled.button`
   display: block;
@@ -37,10 +37,10 @@ const HamInner = styled.span`
     position: absolute;
     display: block;
   }
-  &:before {
+  &::before {
     top: -6px;
   }
-  &:after {
+  &::after {
     bottom: -6px;
   }
 `;
