@@ -3,8 +3,8 @@ import React from 'react';
 function SubmenuItem(props) {
   return (
     <li>
-      <a href={props.link}>
-        {props.link}
+      <a href={props.links}>
+        {props.links}
       </a>
     </li>
   );

@@ -4,7 +4,7 @@ import SubMenu from './Submenu';
 // styled components
 import styled from 'styled-components';
 // fake data for drop downs
-import menuJSON from '../data/menu.json';
+// import menuJSON from '../data/menu.json';
 
 const NavlinkA = styled.a`
   cursor: pointer;
@@ -28,29 +28,32 @@ const DropdownUl = styled.ul`
 `;
 
 function NavItem(props) {
-  let [vis, setVis] = useState(true);
+  let [vis, setVis] = useState(false);
 
   useEffect(() => {
-    // console.log(props.section);
+    console.log(props.section);
   });
 
   const menuController = event => {
     event.preventDefault();
-    // console.log("props.section");
+    console.log('props.section');
   };
 
   return (
     <li
-    // onMouseEnter={() => setVis((vis = !vis))}
-    // onMouseLeave={() => setVis((vis = !vis))}
+      onMouseEnter={() => setVis((vis = !vis))}
+      onMouseLeave={() => setVis((vis = !vis))}
     >
-      {/* {console.log(props.subsections)} */}
       <NavlinkA onClick={() => menuController}>
         {props.section}
       </NavlinkA>
       <DropdownUl hidden={vis ? '' : 'hidden'}>
         {Object.keys(props.subsections).map((subSec, key) =>
-          <SubMenu key={key} subSec={subSec} links={props.subsections} />,
+          <SubMenu
+            key={key}
+            subSec={subSec}
+            links={props.subsections[subSec]}
+          />,
         )}
       </DropdownUl>
     </li>
