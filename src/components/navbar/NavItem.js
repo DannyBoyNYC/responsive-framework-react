@@ -28,7 +28,7 @@ const DropdownUl = styled.ul`
 `;
 
 function NavItem(props) {
-  let [vis, setVis] = useState(true);
+  let [vis, setVis] = useState(false);
 
   useEffect(() => {
     // console.log(props.section);
@@ -41,8 +41,8 @@ function NavItem(props) {
 
   return (
     <li
-    // onMouseEnter={() => setVis((vis = !vis))}
-    // onMouseLeave={() => setVis((vis = !vis))}
+      onMouseEnter={() => setVis((vis = !vis))}
+      onMouseLeave={() => setVis((vis = !vis))}
     >
       {/* {console.log(props.subsections)} */}
       <NavlinkA onClick={() => menuController}>
