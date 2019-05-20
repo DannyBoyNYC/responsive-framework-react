@@ -12,9 +12,10 @@ const NavlinkA = styled.a`
   color: #fff;
   padding: 14px 10px;
   white-space: nowrap;
-  font-size: 14px;
+  // font-size: 15px;
   &:hover {
-    text-decoration: underline;
+    // text-decoration: underline;
+    // font-weight: bold;
   }
 `;
 
@@ -23,8 +24,14 @@ const DropdownUl = styled.ul`
   background-color: #fff;
   padding: 1rem;
   border: 1px solid #999;
-  display: flex;
-  flex-direction: row;
+  // display: flex;
+  // flex-direction: row;
+  column-count: 3;
+  column-gap: 20px;
+  column-width: 120px;
+  &.hidden {
+    display: none;
+  }
 `;
 
 function NavItem(props) {
@@ -47,7 +54,7 @@ function NavItem(props) {
       <NavlinkA onClick={() => menuController}>
         {props.section}
       </NavlinkA>
-      <DropdownUl hidden={vis ? '' : 'hidden'}>
+      <DropdownUl className={vis ? '' : 'hidden'}>
         {Object.keys(props.subsections).map((subSec, key) =>
           <SubMenu
             key={key}
