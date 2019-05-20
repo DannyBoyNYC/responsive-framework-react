@@ -21,6 +21,264 @@
         ],
         "Internal": ["Mercury", "BCM Update"]
       }
+    },
+    {
+      "section": "BARX",
+      "id": 1,
+      "subsections": {
+        "Products": ["Futures", "Structured Investments"]
+      }
+    },
+    {
+      "section": "Commodities",
+      "id": 2,
+      "subsections": {
+        "Publications": [
+          "Commodities",
+          "Conference Calls",
+          "Barclays Macro Research Services",
+          "Barclays Data Services",
+          "BARX Futures"
+        ]
+      }
+    },
+    {
+      "section": "Credit",
+      "id": 3,
+      "subsections": {
+        "Home": ["Credit Homepage"],
+        "Internal Apps": ["Credit Marking Service"],
+        "Publications": [
+          "Global",
+          "Global Banks",
+          "United States",
+          "Europe",
+          "Asia-Pacific",
+          "EEMEA",
+          "Latin America",
+          "US Securitized Credit 1",
+          "European Securitised Credit",
+          "Conference Calls",
+          "Barclays Credit Research Services",
+          "Barclays Data Services"
+        ],
+        "Analytic Tools": [
+          "Chart",
+          "Credit Dashboard",
+          "Bond Screening Tool",
+          "Credit Center",
+          "Interactive AAA Handbook",
+          "Credit Analytic Toolkit",
+          "Securitized Credit Analytic Toolkit"
+        ],
+        "Market Monitors": [
+          "Global Hybrid Capital",
+          "High Grade",
+          "High Yield",
+          "Distressed",
+          "US Securitized crediti",
+          "US Securitized Credit",
+          "US CMBS"
+        ]
+      }
+    },
+    {
+      "section": "Cross Asset",
+      "id": 4,
+      "subsections": {
+        "Home": ["Countries", "Global Forecasts"],
+        "Quantitative Portfolio Strategies": [
+          "QPS Services",
+          "QPS FICC",
+          "QPS Equity",
+          "QPS Analytics"
+        ],
+        "Publications": [
+          "Cross Asset Strategy",
+          "Equity Gilt Study",
+          "Public Policy",
+          "Japan Cross Asset",
+          "Conference Calls",
+          "Barclays Macro Research Services",
+          "Barclays Data Services"
+        ],
+        "Analytic Tools": ["Chart", "POINT", "TRENDS"]
+      }
+    },
+    {
+      "section": "Economics",
+      "id": 5,
+      "subsections": {
+        "Publications": [
+          "Global 2",
+          "Global Forecasts",
+          "Central Banks Watch",
+          "Conference Calls",
+          "Barclays Macro Research Services",
+          "Barclays Data Services"
+        ],
+        "Analytic Tools": ["Chart", "FX Data Surprise Indices"]
+      }
+    },
+    {
+      "section": "Emerging Markets",
+      "id": 6,
+      "subsections": {
+        "Publications": [
+          "Macro & Sovereign Strategy",
+          "Credit EEMEA",
+          "Credit Latin America",
+          "Equities EM",
+          "Conference Calls",
+          "Barclays Macro Research Services",
+          "Barclays Data Services"
+        ],
+        "Analytic Tools": [
+          "Chart",
+          "SGD NEER",
+          "TRENDS",
+          "Credit Analytic Toolkit"
+        ]
+      }
+    },
+    {
+      "section": "Equitities",
+      "id": 7,
+      "subsections": {
+        "Publications": [
+          "Global 3",
+          "#themes",
+          "Top Picks",
+          "First Look",
+          "Strategy",
+          "North America",
+          "Europe",
+          "Latin America",
+          "Equity Linked Strategies",
+          "Sustainable & Thematic Research",
+          "Conference Calls",
+          "Global Conferences",
+          "Barclays Equity Research Services",
+          "Barclays Data Services"
+        ],
+        "Trading": [
+          "Program Trading",
+          "Commission Management",
+          "Syndicate",
+          "Global Markets Guide"
+        ],
+        "Analytic Tools": [
+          "Portfolio WebBench",
+          "BASE - Multi Asset Search",
+          "Equity Chart",
+          "Chart"
+        ],
+        "Derivatives": [
+          "Global VolCenter",
+          "US VolCenter",
+          "European VolCenter",
+          "Asia-Pacific VolCenter"
+        ],
+        "Convertible Bonds": [
+          "Global",
+          "United States",
+          "EMEA",
+          "Asia Pacific i"
+        ]
+      }
+    },
+    {
+      "section": "FX",
+      "id": 8,
+      "subsections": {
+        "Home": ["FX Home"],
+        "Publications": [
+          "FX Research Themes",
+          "FX Instant Insights",
+          "Conference Calls",
+          "Barclays Macro Research Services",
+          "Barclays Data Services"
+        ],
+        "Analytic Tools": [
+          "Chart",
+          "VolT",
+          "OASIS - Volatility",
+          "TRENDS",
+          "FX Short-Term Drivers",
+          "Data Surprise Indicators",
+          "SGD NEER",
+          "FX Analytic Toolkit"
+        ],
+        "Trading Information": ["Benchmark Fee Guidelines"]
+      }
+    },
+    {
+      "section": "Indices",
+      "id": 9,
+      "subsections": {
+        "Home": ["Barclays Strategy Indices"],
+        "Analytic Tools": ["POINT"],
+        "Bloomberg Barclays Benchmark Indices": [
+          "Bloomberg Barclays Indices",
+          "Disclaimer & Licensing"
+        ]
+      }
+    },
+    {
+      "section": "Rates",
+      "id": 10,
+      "subsections": {
+        "Home": ["Rates Homepage"],
+        "Publications": [
+          "Global",
+          "US Agency MBS 1",
+          "Conference Calls",
+          "Barclays Macro Research Services",
+          "Barclays Data Services"
+        ],
+        "Analytic Tools": [
+          "Chart",
+          "Horizon Return Analyzer",
+          "Market Matrix",
+          "US Agency MBS 2",
+          "Pricing Reports",
+          "Inflation-Linked Analytic Toolkit",
+          "Interest Rates Analytic Toolkit",
+          "US Agency MBS Analytic Toolkit",
+          "FuturesCalculator"
+        ],
+        "Market Monitors": [
+          "US Treasury",
+          "US Short Term",
+          "Euro Area",
+          "United Kingdom",
+          "US Agency MBS"
+        ]
+      }
+    },
+    {
+      "section": "Municipals",
+      "id": 11,
+      "subsections": {
+        "Home": ["Municipals Homepage"],
+        "Publications": ["United States"]
+      }
+    },
+    {
+      "section": "Prime Services",
+      "id": 12,
+      "subsections": {
+        "PrimeCentral": ["PrimeCentral Homepage", "Prime Services Overview"],
+        "MyPrime": [
+          "Account Query",
+          "Corporate Actions",
+          "Settlements",
+          "Client File Upload",
+          "File Manager"
+        ],
+        "Documentation": ["User Guides"],
+        "Internal": ["Client Reporting 2.0"]
+      }
     }
   ]
 }
