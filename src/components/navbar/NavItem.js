@@ -47,8 +47,8 @@ function NavItem(props) {
       {/* {console.log(props.subsections)} */}
       <NavLink onClick={() => menuController}>{props.section}</NavLink>
       <DropDown hidden={vis ? "" : "hidden"}>
-        {Object.keys(props.subsections).map((subSec, index) => (
-          <SubMenu key={index} subSec={subSec} links={subSec} />
+        {Object.keys(props.subsections).map((subSec, key) => (
+          <SubMenu key={key} subSec={subSec} links={subSec} />
         ))}
       </DropDown>
     </li>
