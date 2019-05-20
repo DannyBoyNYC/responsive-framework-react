@@ -1,0 +1,1511 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company. All Rights Reserved.",
+  "section": "nyregion",
+  "last_updated": "2019-05-19T09:37:21-04:00",
+  "num_results": 20,
+  "results": [
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "‘They Were Conned’: How Reckless Loans Devastated a Generation of Taxi Drivers",
+      "abstract": "Thousands of immigrants who were chasing the dream of owning a New York taxi were trapped in reckless loans by bankers who made huge profits, The Times found.",
+      "url": "https://www.nytimes.com/2019/05/19/nyregion/nyc-taxis-medallions-suicides.html",
+      "byline": "By BRIAN M. ROSENTHAL",
+      "item_type": "Article",
+      "updated_date": "2019-05-19T08:21:21-04:00",
+      "created_date": "2019-05-19T03:00:10-04:00",
+      "published_date": "2019-05-19T03:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Credit and Debt",
+        "Banking and Financial Institutions",
+        "Taxicabs and Taxicab Drivers",
+        "Credit Unions",
+        "Bankruptcies",
+        "Suicides and Suicide Attempts",
+        "taxi medallion"
+      ],
+      "org_facet": [
+        "Capital One Financial Corporation",
+        "Medallion Financial Corporation",
+        "Melrose Credit Union",
+        "Progressive Casualty Insurance Co",
+        "Signature Bank",
+        "Taxi and Limousine Commission",
+        "Lomto Credit Union",
+        "New York Commercial Bank"
+      ],
+      "per_facet": [
+        "Freidman, Evgeny A",
+        "Mohammed Hoque",
+        "Andrew Murstein",
+        "Anthony Medina"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/02/21/nyregion/00medallionsnewFINALpromo/00medallionsnewFINALpromo-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mohammed Hoque with his three children in their studio apartment in Jamaica, Queens.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/21/nyregion/00medallionsnewFINALpromo/00medallionsnewFINALpromo-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mohammed Hoque with his three children in their studio apartment in Jamaica, Queens.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/21/nyregion/00medallionsnewFINALpromo/00medallionsnewFINALpromo-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mohammed Hoque with his three children in their studio apartment in Jamaica, Queens.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/21/nyregion/00medallionsnewFINALpromo/00medallionsnewFINALpromo-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mohammed Hoque with his three children in their studio apartment in Jamaica, Queens.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/21/nyregion/00medallionsnewFINALpromo/00medallionsnewFINALpromo-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mohammed Hoque with his three children in their studio apartment in Jamaica, Queens.",
+          "copyright": "Kholood Eid for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Hp7gm2"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "As Thousands of Taxi Drivers Were Trapped in Loans, Top Officials Counted the Money",
+      "abstract": "The government profited and looked away as thousands of immigrant taxi drivers in New York were ravaged by exploitative loans.",
+      "url": "https://www.nytimes.com/2019/05/19/nyregion/taxi-medallions.html",
+      "byline": "By BRIAN M. ROSENTHAL",
+      "item_type": "Article",
+      "updated_date": "2019-05-19T07:19:09-04:00",
+      "created_date": "2019-05-19T03:00:12-04:00",
+      "published_date": "2019-05-19T03:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Taxicabs and Taxicab Drivers",
+        "Banking and Financial Institutions",
+        "Regulation and Deregulation of Industry",
+        "Credit and Debt",
+        "Credit Unions",
+        "Auctions"
+      ],
+      "org_facet": [
+        "Medallion Financial Corporation",
+        "Taxi and Limousine Commission",
+        "National Credit Union Administration",
+        "New York Department of Financial Services",
+        "Federal Deposit Insurance Corp",
+        "Office of the Comptroller of the Currency",
+        "Securities and Exchange Commission",
+        "Federal Reserve System"
+      ],
+      "per_facet": [
+        "Bloomberg, Michael R",
+        "Cuomo, Andrew M",
+        "Giuliani, Rudolph W",
+        "de Blasio, Bill",
+        "Gary Roth",
+        "Matthew W. Daus",
+        "Dennis Dollar"
+      ],
+      "geo_facet": ["New York City", "New York State", "United States"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/20/nyregion/20taxiregulate-jump2/20taxiregulate-jump2-thumbStandard-v5.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wael Ghobrayal, an Egyptian immigrant, bought a taxi medallion for $890,000 and now cannot make his loan payments.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/20/nyregion/20taxiregulate-jump2/20taxiregulate-jump2-thumbLarge-v5.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wael Ghobrayal, an Egyptian immigrant, bought a taxi medallion for $890,000 and now cannot make his loan payments.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/20/nyregion/20taxiregulate-jump2/20taxiregulate-jump2-articleInline-v4.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wael Ghobrayal, an Egyptian immigrant, bought a taxi medallion for $890,000 and now cannot make his loan payments.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/20/nyregion/20taxiregulate-jump2/20taxiregulate-jump2-mediumThreeByTwo210-v5.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wael Ghobrayal, an Egyptian immigrant, bought a taxi medallion for $890,000 and now cannot make his loan payments.",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/20/nyregion/20taxiregulate-jump2/20taxiregulate-jump2-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wael Ghobrayal, an Egyptian immigrant, bought a taxi medallion for $890,000 and now cannot make his loan payments.",
+          "copyright": "Kholood Eid for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HsxrbD"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "The Last Chapter of bookbook: A Greenwich Village Institution Closes",
+      "abstract": "After 35 years on Bleecker Street, the store will close by the end of this month. But the owners will still ply their wares at a nearby farmer’s market — and at a pickle stand.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/bookbook-closes-greenwich-village.html",
+      "byline": "By KAREN ZRAICK",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T14:21:05-04:00",
+      "created_date": "2019-05-17T11:40:22-04:00",
+      "published_date": "2019-05-17T11:40:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["your-feed-onlyinnewyork", "Books and Literature"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Bleecker Street (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19Endangered/00es_bookbook-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19Endangered/00es_bookbook-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19Endangered/00es_bookbook-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 157,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19Endangered/00es_bookbook-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19Endangered/00es_bookbook-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1688,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2JnxrMh"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Are Surfer Cafes and Green Markets What a Working-Class Beach Neighborhood Needs?",
+      "abstract": "Sleepy Arverne is attracting entrepreneurs from its neighbor to the west, Rockaway Beach. As gentrification there continues, the community adjusts to the spotlight.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/arverne-rockaway-beach.html",
+      "byline": "By KATE BRANCH",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T05:00:19-04:00",
+      "created_date": "2019-05-17T05:00:19-04:00",
+      "published_date": "2019-05-17T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Surfing",
+        "Hurricane Sandy (2012)",
+        "Real Estate and Housing (Residential)",
+        "Real Estate (Commercial)",
+        "Beaches"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Arverne (Queens, NY)", "Rockaway Beach (Queens, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19arverne7/merlin_154762230_9a59dd31-0650-4ff9-873c-b65421fb8ebf-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents fish along Jamaica Bay.",
+          "copyright": "Lily Landes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19arverne7/merlin_154762230_9a59dd31-0650-4ff9-873c-b65421fb8ebf-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents fish along Jamaica Bay.",
+          "copyright": "Lily Landes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19arverne7/merlin_154762230_9a59dd31-0650-4ff9-873c-b65421fb8ebf-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents fish along Jamaica Bay.",
+          "copyright": "Lily Landes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19arverne7/merlin_154762230_9a59dd31-0650-4ff9-873c-b65421fb8ebf-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents fish along Jamaica Bay.",
+          "copyright": "Lily Landes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19arverne7/merlin_154762230_9a59dd31-0650-4ff9-873c-b65421fb8ebf-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents fish along Jamaica Bay.",
+          "copyright": "Lily Landes for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Vsp9Eo"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Where Are the Statues of L.G.B.T.Q. Pioneers? Here Are 11 Worthy New Yorkers",
+      "abstract": "Virtually nonexistent among the city’s monuments, L.G.B.T.Q. men and women have made outsize contributions to New York’s identity. It is long past time they were put on a pedestal.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/lgbtq-statues-new-york.html",
+      "byline": "By GINIA BELLAFANTE",
+      "item_type": "Article",
+      "updated_date": "2019-05-18T05:52:09-04:00",
+      "created_date": "2019-05-17T05:00:25-04:00",
+      "published_date": "2019-05-17T05:00:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Homosexuality and Bisexuality",
+        "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "Discrimination",
+        "Stonewall Riots (1969)",
+        "Transgender and Transsexuals",
+        "World Pride"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Baker, Sara Josephine (1873-1945)",
+        "Haring, Keith",
+        "Kasen, Judith M",
+        "Kirstein, Lincoln",
+        "Rustin, Bayard",
+        "Strayhorn, Billy",
+        "Windsor, Edith Schlain",
+        "Wojnarowicz, David"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19pride-monuments14/19pride-monuments14-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Audre Lorde lecturing in 1983.",
+          "copyright": "Robert Alexander/Archive Photos, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19pride-monuments14/19pride-monuments14-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Audre Lorde lecturing in 1983.",
+          "copyright": "Robert Alexander/Archive Photos, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19pride-monuments14/merlin_154663989_9fbc3bf5-d81d-453b-bb02-4dd0780ba27b-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Audre Lorde lecturing in 1983.",
+          "copyright": "Robert Alexander/Archive Photos, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19pride-monuments14/19pride-monuments14-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Audre Lorde lecturing in 1983.",
+          "copyright": "Robert Alexander/Archive Photos, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19pride-monuments14/merlin_154663989_9fbc3bf5-d81d-453b-bb02-4dd0780ba27b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1403,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Audre Lorde lecturing in 1983.",
+          "copyright": "Robert Alexander/Archive Photos, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Js54MD"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Abortion and the Future of the New South",
+      "abstract": "Many young New Yorkers have been fleeing the city for creative hubs in the South, where housing is cheap. But what happens now?",
+      "url": "https://www.nytimes.com/2019/05/16/nyregion/abortion-millennials-south.html",
+      "byline": "By GINIA BELLAFANTE",
+      "item_type": "Article",
+      "updated_date": "2019-05-18T12:09:46-04:00",
+      "created_date": "2019-05-16T16:04:10-04:00",
+      "published_date": "2019-05-16T16:04:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Abortion", "Labor and Jobs"],
+      "org_facet": [
+        "Garden & Gun (Magazine)",
+        "Planned Parenthood Federation of America",
+        "Republican Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Birmingham (Ala)",
+        "New Orleans (La)",
+        "San Francisco (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19big/19big-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest outside the Alabama Statehouse in Montgomery.",
+          "copyright": "Mickey Welsh/The Montgomery Advertiser, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19big/19big-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest outside the Alabama Statehouse in Montgomery.",
+          "copyright": "Mickey Welsh/The Montgomery Advertiser, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19big/19big-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest outside the Alabama Statehouse in Montgomery.",
+          "copyright": "Mickey Welsh/The Montgomery Advertiser, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19big/19big-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest outside the Alabama Statehouse in Montgomery.",
+          "copyright": "Mickey Welsh/The Montgomery Advertiser, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19big/19big-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest outside the Alabama Statehouse in Montgomery.",
+          "copyright": "Mickey Welsh/The Montgomery Advertiser, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Q6K4f0"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "How the Members of the Band AJR Spend Their Sundays",
+      "abstract": "From planning their next tour to going out for sushi, the Met brothers are, for the most part, inseparable.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/ajr-met-brothers-indie-music.html",
+      "byline": "By TAMMY La GORCE",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T14:45:31-04:00",
+      "created_date": "2019-05-17T05:00:12-04:00",
+      "published_date": "2019-05-17T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Pop and Rock Music"],
+      "org_facet": ["Columbia University", "AJR (Music Group)"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19routine1/17routine1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Band of brothers, from left: Jack, Adam and Ryan Met plan their next tour using a white board.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19routine1/17routine1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Band of brothers, from left: Jack, Adam and Ryan Met plan their next tour using a white board.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19routine1/merlin_153265089_5d641539-65f2-45aa-83ba-c99e6cdf502c-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Band of brothers, from left: Jack, Adam and Ryan Met plan their next tour using a white board.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19routine1/17routine1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Band of brothers, from left: Jack, Adam and Ryan Met plan their next tour using a white board.",
+          "copyright": "Idris Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19routine1/merlin_153265089_5d641539-65f2-45aa-83ba-c99e6cdf502c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Band of brothers, from left: Jack, Adam and Ryan Met plan their next tour using a white board.",
+          "copyright": "Idris Solomon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2JpttTa"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "De Blasio Once Ignored Trump. But in Iowa, It Was All Trump.",
+      "abstract": "The mayor made his first trip to Iowa as a presidential candidate, showing off his new focus on criticizing Mr. Trump.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/bill-de-blasio-iowa.html",
+      "byline": "By JEFFERY C. MAYS",
+      "item_type": "Article",
+      "updated_date": "2019-05-18T03:05:50-04:00",
+      "created_date": "2019-05-17T18:32:38-04:00",
+      "published_date": "2019-05-17T18:32:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Mayors",
+        "Politics and Government"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["de Blasio, Bill"],
+      "geo_facet": ["Iowa", "New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18bdbiowa1-print/17bdbiowa1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio toured an ethanol plant in Gowrie, Iowa, on Friday with former Iowa governor Tom Vilsack. &ldquo;The Trump administration has favored big petroleum companies and that has to end,&rdquo; Mr. de Blasio said after the tour.",
+          "copyright": "Christopher Smith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18bdbiowa1-print/17bdbiowa1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio toured an ethanol plant in Gowrie, Iowa, on Friday with former Iowa governor Tom Vilsack. &ldquo;The Trump administration has favored big petroleum companies and that has to end,&rdquo; Mr. de Blasio said after the tour.",
+          "copyright": "Christopher Smith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18bdbiowa1-print/b9dcad90646145a8ba2b8e8f1320c966-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio toured an ethanol plant in Gowrie, Iowa, on Friday with former Iowa governor Tom Vilsack. &ldquo;The Trump administration has favored big petroleum companies and that has to end,&rdquo; Mr. de Blasio said after the tour.",
+          "copyright": "Christopher Smith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18bdbiowa1-print/17bdbiowa1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio toured an ethanol plant in Gowrie, Iowa, on Friday with former Iowa governor Tom Vilsack. &ldquo;The Trump administration has favored big petroleum companies and that has to end,&rdquo; Mr. de Blasio said after the tour.",
+          "copyright": "Christopher Smith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18bdbiowa1-print/b9dcad90646145a8ba2b8e8f1320c966-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1476,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio toured an ethanol plant in Gowrie, Iowa, on Friday with former Iowa governor Tom Vilsack. &ldquo;The Trump administration has favored big petroleum companies and that has to end,&rdquo; Mr. de Blasio said after the tour.",
+          "copyright": "Christopher Smith for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2JrTl0B"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "$461,646 in Pay for One Worker: M.T.A. Overtime Scrutinized by Prosecutors",
+      "abstract": "Handwritten bookkeeping is still in use at the Long Island Rail Road. Now the practice is the subject of a federal inquiry.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/mta-overtime.html",
+      "byline": "By JIM DWYER and EMMA G. FITZSIMMONS",
+      "item_type": "Article",
+      "updated_date": "2019-05-18T00:27:23-04:00",
+      "created_date": "2019-05-17T10:19:48-04:00",
+      "published_date": "2019-05-17T10:19:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Overtime",
+        "Frauds and Swindling",
+        "Wages and Salaries",
+        "Transit Systems",
+        "Organized Labor"
+      ],
+      "org_facet": [
+        "Metropolitan Transportation Authority",
+        "Long Island Rail Road Co"
+      ],
+      "per_facet": ["Cuomo, Andrew M"],
+      "geo_facet": ["New York City", "New York State"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18mta1-print/merlin_151351452_6cf80ecc-1a49-4c14-9a70-6d38af98dae2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Overtime abuse by workers at the Long Island Rail Road is under scrutiny by federal prosecutors in Manhattan.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18mta1-print/merlin_151351452_6cf80ecc-1a49-4c14-9a70-6d38af98dae2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Overtime abuse by workers at the Long Island Rail Road is under scrutiny by federal prosecutors in Manhattan.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18mta1-print/merlin_151351452_6cf80ecc-1a49-4c14-9a70-6d38af98dae2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Overtime abuse by workers at the Long Island Rail Road is under scrutiny by federal prosecutors in Manhattan.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18mta1-print/merlin_151351452_6cf80ecc-1a49-4c14-9a70-6d38af98dae2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Overtime abuse by workers at the Long Island Rail Road is under scrutiny by federal prosecutors in Manhattan.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18mta1-print/merlin_151351452_6cf80ecc-1a49-4c14-9a70-6d38af98dae2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Overtime abuse by workers at the Long Island Rail Road is under scrutiny by federal prosecutors in Manhattan.",
+          "copyright": "Johnny Milano for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Jp0u1N"
+    },
+    {
+      "section": "Real Estate",
+      "subsection": "",
+      "title": "Homes That Sold for Around $1,500,000",
+      "abstract": "Recent residential sales in New York City and the region.",
+      "url": "https://www.nytimes.com/2019/05/19/realestate/homes-that-sold-for-around-1500000.html",
+      "byline": "By C. J. HUGHES",
+      "item_type": "Article",
+      "updated_date": "2019-05-19T05:00:05-04:00",
+      "created_date": "2019-05-19T05:00:05-04:00",
+      "published_date": "2019-05-19T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Real Estate and Housing (Residential)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Upper East Side (Manhattan, NY)",
+        "Riverdale (Bronx, NY)",
+        "Larchmont (NY)",
+        "Greenwich (Conn)",
+        "Tenafly (NJ)",
+        "Syosset (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19selling-Long-Island/oakImage-1556916807311-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19selling-Long-Island/oakImage-1556916807311-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19selling-Long-Island/oakImage-1556916807311-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19selling-Long-Island/oakImage-1556916807311-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19selling-Long-Island/oakImage-1556916807311-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2HpIG4p"
+    },
+    {
+      "section": "Sports",
+      "subsection": "",
+      "title": "A Hotbed for Lacrosse? Harlem Makes Its Case",
+      "abstract": "Frederick Douglass Academy in Harlem is playing for its third straight New York City boys’ lacrosse title. The team is a sign of progress for a sport seen as elite, suburban and mostly white.",
+      "url": "https://www.nytimes.com/2019/05/17/sports/harlem-lacrosse.html",
+      "byline": "By MATTHEW GUTIERREZ",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T21:41:42-04:00",
+      "created_date": "2019-05-17T19:17:09-04:00",
+      "published_date": "2019-05-17T19:17:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Lacrosse", "Education (K-12)"],
+      "org_facet": ["Harlem Lacrosse and Leadership"],
+      "per_facet": [],
+      "geo_facet": ["Harlem (Manhattan, NY)", "New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/sports/17harlem-lacrosse-sub/17harlem-lacrosse-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Frederick Douglass Academy lacrosse team lined up before its Public Schools Athletic League semifinal match on Thursday.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/sports/17harlem-lacrosse-sub/17harlem-lacrosse-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Frederick Douglass Academy lacrosse team lined up before its Public Schools Athletic League semifinal match on Thursday.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/sports/17harlem-lacrosse-sub/17harlem-lacrosse-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Frederick Douglass Academy lacrosse team lined up before its Public Schools Athletic League semifinal match on Thursday.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/sports/17harlem-lacrosse-sub/17harlem-lacrosse-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Frederick Douglass Academy lacrosse team lined up before its Public Schools Athletic League semifinal match on Thursday.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/sports/17harlem-lacrosse-sub/17harlem-lacrosse-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1402,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Frederick Douglass Academy lacrosse team lined up before its Public Schools Athletic League semifinal match on Thursday.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Jrh6pQ"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Nxivm Trial: Naked Meetings and Photos for Sex Cult ‘Grandmaster’",
+      "abstract": "Lauren Salzman, a senior member of the group, described how women would array themselves naked in front of the group’s founder as he sat in a chair and lectured.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/nxivm-trial-lauren-salzman.html",
+      "byline": "By COLIN MOYNIHAN",
+      "item_type": "Article",
+      "updated_date": "2019-05-18T06:53:54-04:00",
+      "created_date": "2019-05-17T17:32:57-04:00",
+      "published_date": "2019-05-17T17:32:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Religious Cults", "Women and Girls", "Sex Crimes"],
+      "org_facet": ["Nxivm"],
+      "per_facet": [
+        "Raniere, Keith",
+        "Mack, Allison",
+        "Salzman, Lauren (1976- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18sexcult1-print/17sexcult1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lauren Salzman leaving Federal District Court in Brooklyn last fall. &ldquo;I was a slave with Keith as my master,&rdquo; Ms. Salzman, 42, said in testimony on Friday. &ldquo;I had other slaves under me.&rdquo;",
+          "copyright": "Bebeto Matthews/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18sexcult1-print/17sexcult1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lauren Salzman leaving Federal District Court in Brooklyn last fall. &ldquo;I was a slave with Keith as my master,&rdquo; Ms. Salzman, 42, said in testimony on Friday. &ldquo;I had other slaves under me.&rdquo;",
+          "copyright": "Bebeto Matthews/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18sexcult1-print/17sexcult1-articleInline.jpg",
+          "format": "Normal",
+          "height": 109,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lauren Salzman leaving Federal District Court in Brooklyn last fall. &ldquo;I was a slave with Keith as my master,&rdquo; Ms. Salzman, 42, said in testimony on Friday. &ldquo;I had other slaves under me.&rdquo;",
+          "copyright": "Bebeto Matthews/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18sexcult1-print/17sexcult1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lauren Salzman leaving Federal District Court in Brooklyn last fall. &ldquo;I was a slave with Keith as my master,&rdquo; Ms. Salzman, 42, said in testimony on Friday. &ldquo;I had other slaves under me.&rdquo;",
+          "copyright": "Bebeto Matthews/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/nyregion/18sexcult1-print/17sexcult1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1172,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lauren Salzman leaving Federal District Court in Brooklyn last fall. &ldquo;I was a slave with Keith as my master,&rdquo; Ms. Salzman, 42, said in testimony on Friday. &ldquo;I had other slaves under me.&rdquo;",
+          "copyright": "Bebeto Matthews/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Jsd7ZU"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Dance",
+      "title": "2 Batsheva-Bred Choreographers, Speaking in Their Own Tongues",
+      "abstract": "Shamel Pitts and Bobbi Jene Smith, veterans of Ohad Naharin’s company, showed their distinctive dance voices in New York performances.",
+      "url": "https://www.nytimes.com/2019/05/17/arts/dance/shamel-pitts-black-velvet-bobbi-jene-smith-lost-mountain.html",
+      "byline": "By SIOBHAN BURKE",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T15:36:27-04:00",
+      "created_date": "2019-05-17T15:36:27-04:00",
+      "published_date": "2019-05-17T15:36:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Black Velvet: Architectures and Archetypes (Dance)",
+        "Lost Mountain (Dance)"
+      ],
+      "org_facet": ["Batsheva Dance Co"],
+      "per_facet": ["Naharin, Ohad", "Pitts, Shamel", "Smith, Bobbi Jene"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/arts/17pitts-smith-1/17pitts-smith-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariel Friedman, center, in Bobbi Jene Smith’s “Lost Mountain,” which, with episodic structure and surrealism, owes more to Pina Bausch than to Ohad Naharin.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/arts/17pitts-smith-1/17pitts-smith-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariel Friedman, center, in Bobbi Jene Smith’s “Lost Mountain,” which, with episodic structure and surrealism, owes more to Pina Bausch than to Ohad Naharin.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/arts/17pitts-smith-1/merlin_154908117_93e6aa7a-3c9b-4ae8-82da-264a5a5bc04b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariel Friedman, center, in Bobbi Jene Smith’s “Lost Mountain,” which, with episodic structure and surrealism, owes more to Pina Bausch than to Ohad Naharin.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/arts/17pitts-smith-1/merlin_154908117_93e6aa7a-3c9b-4ae8-82da-264a5a5bc04b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariel Friedman, center, in Bobbi Jene Smith’s “Lost Mountain,” which, with episodic structure and surrealism, owes more to Pina Bausch than to Ohad Naharin.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/arts/17pitts-smith-1/merlin_154908117_93e6aa7a-3c9b-4ae8-82da-264a5a5bc04b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariel Friedman, center, in Bobbi Jene Smith’s “Lost Mountain,” which, with episodic structure and surrealism, owes more to Pina Bausch than to Ohad Naharin.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YBuwCS"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Kirsten Gillibrand Is Struggling. Will Abortion Rights Be Her Rallying Cry?",
+      "abstract": "The New York senator is mired near the bottom of most polls but hopes to jump-start her campaign and fund-raising as she aggressively criticizes anti-abortion laws in Alabama and other states.",
+      "url": "https://www.nytimes.com/2019/05/17/us/politics/kirsten-gillibrand-abortion.html",
+      "byline": "By SHANE GOLDMACHER",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T11:32:25-04:00",
+      "created_date": "2019-05-17T11:32:25-04:00",
+      "published_date": "2019-05-17T11:32:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Abortion",
+        "Campaign Finance",
+        "United States Politics and Government",
+        "Primaries and Caucuses",
+        "Polls and Public Opinion",
+        "Sexual Harassment"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Gillibrand, Kirsten E"],
+      "geo_facet": ["New York State"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/us/politics/17gillibrand1/17gillibrand1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kirsten Gillibrand of New York has drawn thinner crowds on the campaign trail than the top contenders in the Democratic race.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/us/politics/17gillibrand1/17gillibrand1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kirsten Gillibrand of New York has drawn thinner crowds on the campaign trail than the top contenders in the Democratic race.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/us/politics/17gillibrand1/17gillibrand1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kirsten Gillibrand of New York has drawn thinner crowds on the campaign trail than the top contenders in the Democratic race.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/us/politics/17gillibrand1/17gillibrand1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kirsten Gillibrand of New York has drawn thinner crowds on the campaign trail than the top contenders in the Democratic race.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/us/politics/17gillibrand1/17gillibrand1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kirsten Gillibrand of New York has drawn thinner crowds on the campaign trail than the top contenders in the Democratic race.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YE6jMz"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "The City’s Most Arresting Signs Over the Decades",
+      "abstract": "A new book featuring the photographs of Lee Friedlander shows the significance of random public announcements like ‘No Parking’ and ‘Everything Must Go!’",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/lee-friedlander-signs.html",
+      "byline": "By MATTHEW SEDACCA",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T11:04:53-04:00",
+      "created_date": "2019-05-17T10:34:28-04:00",
+      "published_date": "2019-05-17T10:34:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Traffic and Parking Signals and Signs", "Photography"],
+      "org_facet": ["Fraenkel Gallery (San Francisco, Calif)"],
+      "per_facet": ["Friedlander, Lee"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19ALBUM1/19ALBUM1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lee Friedlander, courtesy of Fraenkel Gallery, San Francisco"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19ALBUM1/19ALBUM1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lee Friedlander, courtesy of Fraenkel Gallery, San Francisco"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19ALBUM1/19ALBUM1-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lee Friedlander, courtesy of Fraenkel Gallery, San Francisco"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19ALBUM1/19ALBUM1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lee Friedlander, courtesy of Fraenkel Gallery, San Francisco"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/nyregion/19ALBUM1/19ALBUM1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1376,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lee Friedlander, courtesy of Fraenkel Gallery, San Francisco"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Yv9O7G"
+    },
+    {
+      "section": "Theater",
+      "subsection": "",
+      "title": "David Byrne Is Coming to Broadway",
+      "abstract": "The pop artist is retooling his “American Utopia” show for a 15-week run from October to January.",
+      "url": "https://www.nytimes.com/2019/05/17/theater/david-byrne-broadway-american-utopia.html",
+      "byline": "By MICHAEL PAULSON",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T22:53:27-04:00",
+      "created_date": "2019-05-17T10:00:07-04:00",
+      "published_date": "2019-05-17T10:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Theater", "Pop and Rock Music", "American Utopia (Album)"],
+      "org_facet": [],
+      "per_facet": ["Byrne, David", "Parson, Annie B", "Timbers, Alex"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/arts/17byrne-item1/17byrne-item1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Byrne (left) performing &ldquo;American Utopia&rdquo; in Uruguay last year.",
+          "copyright": "Matilde Campodonico/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/arts/17byrne-item1/17byrne-item1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Byrne (left) performing &ldquo;American Utopia&rdquo; in Uruguay last year.",
+          "copyright": "Matilde Campodonico/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/arts/17byrne-item1/merlin_135776811_7ddcd1ff-2381-405b-ab07-76318d4d8fe7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Byrne (left) performing &ldquo;American Utopia&rdquo; in Uruguay last year.",
+          "copyright": "Matilde Campodonico/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/arts/17byrne-item1/merlin_135776811_7ddcd1ff-2381-405b-ab07-76318d4d8fe7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Byrne (left) performing &ldquo;American Utopia&rdquo; in Uruguay last year.",
+          "copyright": "Matilde Campodonico/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/18/arts/17byrne-item1/merlin_135776811_7ddcd1ff-2381-405b-ab07-76318d4d8fe7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Byrne (left) performing &ldquo;American Utopia&rdquo; in Uruguay last year.",
+          "copyright": "Matilde Campodonico/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YyIghW"
+    },
+    {
+      "section": "Real Estate",
+      "subsection": "",
+      "title": "The Next Chapter for the Wineries on Long Island’s North Fork",
+      "abstract": "The East End’s first vineyards were planted in the 1970s, and some family-owned businesses are now attracting investors from elsewhere.",
+      "url": "https://www.nytimes.com/2019/05/17/realestate/the-next-chapter-for-the-wineries-on-long-islands-north-fork.html",
+      "byline": "By CLAUDIA GRYVATZ COPQUIN",
+      "item_type": "Article",
+      "updated_date": "2019-05-18T12:27:11-04:00",
+      "created_date": "2019-05-17T07:29:07-04:00",
+      "published_date": "2019-05-17T07:29:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wines",
+        "Real Estate and Housing (Residential)",
+        "Agriculture and Farming"
+      ],
+      "org_facet": [
+        "Bedell Cellars",
+        "Paumanok Vineyards (Aquebogue, NY)",
+        "Palmer Vineyards",
+        "Pindar Vineyards",
+        "Shinn Estate Vineyards"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "North Fork (NY)",
+        "Aquebogue (NY)",
+        "Cutchogue (NY)",
+        "Riverhead (NY)",
+        "Mattituck (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19Vineyards-slide-8I8C/19Vineyards-slide-8I8C-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bedell Cellars in Cutchogue, where Susan and Kip Bedell planted their first grapevines in 1980, is on the market for $17.9 million.",
+          "copyright": "Dead On Design"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19Vineyards-slide-8I8C/19Vineyards-slide-8I8C-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bedell Cellars in Cutchogue, where Susan and Kip Bedell planted their first grapevines in 1980, is on the market for $17.9 million.",
+          "copyright": "Dead On Design"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19Vineyards-slide-8I8C/19Vineyards-slide-8I8C-articleInline.jpg",
+          "format": "Normal",
+          "height": 141,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bedell Cellars in Cutchogue, where Susan and Kip Bedell planted their first grapevines in 1980, is on the market for $17.9 million.",
+          "copyright": "Dead On Design"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19Vineyards-slide-8I8C/19Vineyards-slide-8I8C-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bedell Cellars in Cutchogue, where Susan and Kip Bedell planted their first grapevines in 1980, is on the market for $17.9 million.",
+          "copyright": "Dead On Design"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/19Vineyards-slide-8I8C/19Vineyards-slide-8I8C-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1518,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bedell Cellars in Cutchogue, where Susan and Kip Bedell planted their first grapevines in 1980, is on the market for $17.9 million.",
+          "copyright": "Dead On Design"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YGgekP"
+    },
+    {
+      "section": "New York",
+      "subsection": "New York Today",
+      "title": "De Blasio Wants to Be President. Can His Record Sway ‘Everyday People’?",
+      "abstract": "Friday: The mayor, who became the 23rd candidate in the Democratic race, is emphasizing his accomplishments in New York City.",
+      "url": "https://www.nytimes.com/2019/05/17/nyregion/newyorktoday/nyc-news-bill-de-blasio-president.html",
+      "byline": "By AZI PAYBARAH",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T05:53:35-04:00",
+      "created_date": "2019-05-17T05:03:26-04:00",
+      "published_date": "2019-05-17T05:03:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Libraries and Librarians",
+        "Politics and Government"
+      ],
+      "org_facet": ["Citizen App (Mobile App)"],
+      "per_facet": ["de Blasio, Bill"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/nyregion/17nytoday1/17nytoday1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor de Blasio and the first lady, Chirlane McCray, in Battery Park after Mr. de Blasio announced that he was running for president.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/nyregion/17nytoday1/17nytoday1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor de Blasio and the first lady, Chirlane McCray, in Battery Park after Mr. de Blasio announced that he was running for president.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/nyregion/17nytoday1/17nytoday1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor de Blasio and the first lady, Chirlane McCray, in Battery Park after Mr. de Blasio announced that he was running for president.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/nyregion/17nytoday1/17nytoday1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor de Blasio and the first lady, Chirlane McCray, in Battery Park after Mr. de Blasio announced that he was running for president.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/17/nyregion/17nytoday1/17nytoday1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor de Blasio and the first lady, Chirlane McCray, in Battery Park after Mr. de Blasio announced that he was running for president.",
+          "copyright": "Dave Sanders for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2JnPCRP"
+    },
+    {
+      "section": "Real Estate",
+      "subsection": "",
+      "title": "In the Hamptons, Modernism Rises (Again)",
+      "abstract": "Instead of classic beach houses with cedar shingles, developers are building more sleek, contemporary homes with flat roofs and lots of glass.",
+      "url": "https://www.nytimes.com/2019/05/17/realestate/in-the-hamptons-modernism-rises-again.html",
+      "byline": "By MARCELLE SUSSMAN FISCHLER",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T07:43:13-04:00",
+      "created_date": "2019-05-17T05:01:41-04:00",
+      "published_date": "2019-05-17T05:01:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Real Estate and Housing (Residential)", "Architecture"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Hamptons (NY)"],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2JqGo7f"
+    },
+    {
+      "section": "Real Estate",
+      "subsection": "",
+      "title": "East Hampton’s Own White House",
+      "abstract": "The seven-bedroom mansion known for the geraniums in its many window boxes goes on the market for $12.5 million.",
+      "url": "https://www.nytimes.com/2019/05/17/realestate/east-hamptons-own-white-house.html",
+      "byline": "By JULIE LASKY",
+      "item_type": "Article",
+      "updated_date": "2019-05-17T07:48:15-04:00",
+      "created_date": "2019-05-17T05:01:28-04:00",
+      "published_date": "2019-05-17T05:01:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Real Estate and Housing (Residential)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["East Hampton (NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/18EXCLUSIVE-HAMPTONS-slide-GOJ0/18EXCLUSIVE-HAMPTONS-slide-GOJ0-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jake Rajs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/18EXCLUSIVE-HAMPTONS-slide-GOJ0/18EXCLUSIVE-HAMPTONS-slide-GOJ0-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jake Rajs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/18EXCLUSIVE-HAMPTONS-slide-GOJ0/18EXCLUSIVE-HAMPTONS-slide-GOJ0-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jake Rajs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/18EXCLUSIVE-HAMPTONS-slide-GOJ0/18EXCLUSIVE-HAMPTONS-slide-GOJ0-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jake Rajs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/05/19/realestate/18EXCLUSIVE-HAMPTONS-slide-GOJ0/18EXCLUSIVE-HAMPTONS-slide-GOJ0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1371,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jake Rajs"
+        }
+      ],
+      "short_url": "https://nyti.ms/2W3H6gV"
+    }
+  ]
+}

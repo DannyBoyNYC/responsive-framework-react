@@ -1,13 +1,10 @@
-// loading hooks
-import React, { useState, useEffect } from 'react';
-
-import SubMenu from './Submenu';
+// loading react and hooks
+import React, { useState, useEffect } from "react";
+import SubMenu from "./Submenu";
 // styled components
-import styled from 'styled-components';
+import styled from "styled-components";
 // fake data for drop downs
-import { menuData } from '../data/menu';
-
-const NavListItem = styled.li``;
+import menuJSON from "../data/menu.json";
 
 const NavLink = styled.a`
   cursor: pointer;
@@ -17,41 +14,41 @@ const NavLink = styled.a`
   white-space: nowrap;
   font-size: 14px;
   &:hover {
-    background-color: #fff;
-    color: #666;
+    text-decoration: underline;
   }
 `;
 
 const DropDown = styled.ul`
   position: absolute;
-  left: 2rem;
-  width: calc(100vw - 6rem);
+  // left: 2rem;
+  // width: calc(100vw - 6rem);
   background-color: #fff;
   padding: 1rem;
   border: 1px solid #999;
 `;
 
 function NavItem(props) {
-  let [vis, setVis] = useState(false);
+  let [vis, setVis] = useState(true);
 
   useEffect(() => {
-    console.log(menuData[props.link]);
+    // console.log(props.section);
   });
 
   const menuController = event => {
     event.preventDefault();
-    console.log('props.link');
+    // console.log("props.section");
   };
 
   return (
     <li
-      onMouseEnter={() => setVis((vis = !vis))}
-      onMouseLeave={() => setVis((vis = !vis))}
+    // onMouseEnter={() => setVis((vis = !vis))}
+    // onMouseLeave={() => setVis((vis = !vis))}
     >
-      <NavLink onClick={() => menuController}>{props.link}</NavLink>
-      <DropDown hidden={vis ? '' : 'hidden'}>
-        {menuData[props.link].map(key => (
-          <SubMenu key={key} link={key} />
+      {/* {console.log(props.subsections)} */}
+      <NavLink onClick={() => menuController}>{props.section}</NavLink>
+      <DropDown hidden={vis ? "" : "hidden"}>
+        {Object.keys(props.subsections).map((subSec, index) => (
+          <SubMenu key={index} subSec={subSec} links={subSec} />
         ))}
       </DropDown>
     </li>

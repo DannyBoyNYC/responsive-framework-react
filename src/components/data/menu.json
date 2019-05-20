@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "results": [
+    {
+      "section": "Home",
+      "id": 0,
+      "subsections": {
+        "Home": [
+          "Welcome",
+          "Publications",
+          "Subscriptions",
+          "Signature Reports",
+          "#themes",
+          "Premier Events",
+          "Global Conferences",
+          "Global Forecasts",
+          "Multimedia",
+          "Barclays Live Toolkit",
+          "Barclays Research Services",
+          "Barclays Data Services"
+        ],
+        "Internal": ["Mercury", "BCM Update"]
+      }
+    }
+  ]
+}

@@ -1,7 +1,11 @@
-import React from 'react';
+import React from "react";
 
 function SubmenuItem(props) {
-  return <li>{props.link}</li>;
+  // props.subsections.map( (subsection) => (
+  return <li>{props.subSec}</li>;
+  // )
+
+  // )
 }
 
 export default SubmenuItem;
