@@ -1,12 +1,12 @@
 // loading react and hooks
-import React, { useState, useEffect } from "react";
-import SubMenu from "./Submenu";
+import React, { useState, useEffect } from 'react';
+import SubMenu from './Submenu';
 // styled components
-import styled from "styled-components";
+import styled from 'styled-components';
 // fake data for drop downs
-import menuJSON from "../data/menu.json";
+import menuJSON from '../data/menu.json';
 
-const NavLink = styled.a`
+const NavlinkA = styled.a`
   cursor: pointer;
   display: inline-block;
   color: #fff;
@@ -18,13 +18,13 @@ const NavLink = styled.a`
   }
 `;
 
-const DropDown = styled.ul`
+const DropdownUl = styled.ul`
   position: absolute;
-  // left: 2rem;
-  // width: calc(100vw - 6rem);
   background-color: #fff;
   padding: 1rem;
   border: 1px solid #999;
+  display: flex;
+  flex-direction: row;
 `;
 
 function NavItem(props) {
@@ -45,12 +45,14 @@ function NavItem(props) {
     // onMouseLeave={() => setVis((vis = !vis))}
     >
       {/* {console.log(props.subsections)} */}
-      <NavLink onClick={() => menuController}>{props.section}</NavLink>
-      <DropDown hidden={vis ? "" : "hidden"}>
-        {Object.keys(props.subsections).map((subSec, key) => (
-          <SubMenu key={key} subSec={subSec} links={subSec} />
-        ))}
-      </DropDown>
+      <NavlinkA onClick={() => menuController}>
+        {props.section}
+      </NavlinkA>
+      <DropdownUl hidden={vis ? '' : 'hidden'}>
+        {Object.keys(props.subsections).map((subSec, key) =>
+          <SubMenu key={key} subSec={subSec} links={props.subsections} />,
+        )}
+      </DropdownUl>
     </li>
   );
 }
