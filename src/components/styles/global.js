@@ -1,4 +1,7 @@
-import { createGlobalStyle } from "styled-components";
+// DOCS
+// Attached to the body tag
+
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyles = createGlobalStyle`
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700');

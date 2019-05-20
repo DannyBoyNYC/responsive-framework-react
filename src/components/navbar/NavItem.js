@@ -3,8 +3,6 @@ import React, { useState, useEffect } from 'react';
 import SubMenu from './Submenu';
 // styled components
 import styled from 'styled-components';
-// fake data for drop downs
-// import menuJSON from '../data/menu.json';
 
 const NavlinkA = styled.a`
   cursor: pointer;
@@ -24,11 +22,11 @@ const DropdownUl = styled.ul`
   background-color: #fff;
   padding: 1rem;
   border: 1px solid #999;
-  // display: flex;
-  // flex-direction: row;
-  column-count: 3;
-  column-gap: 20px;
-  column-width: 120px;
+  display: flex;
+  flex-direction: row;
+  // column-count: 3;
+  // column-gap: 20px;
+  // column-width: 120px;
   &.hidden {
     display: none;
   }
