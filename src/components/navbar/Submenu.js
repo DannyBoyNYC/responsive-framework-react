@@ -1,16 +1,22 @@
 import React from 'react';
+import styled from 'styled-components';
 
 import Item from './Item';
+
+const MenuHeaderSpan = styled.span`
+  display: inline-block;
+  padding-bottom: 0.5rem;
+`;
 
 function SubmenuItem(props) {
   return (
     <li>
-      <span>
+      <MenuHeaderSpan>
         {props.subSec}
-      </span>
+      </MenuHeaderSpan>
       <ul>
         {Object.entries(props.links).map(([key, value]) =>
-          <Item key={key} links={value} />,
+          <Item key={key} link={value} />,
         )}
       </ul>
     </li>
