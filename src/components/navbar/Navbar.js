@@ -1,13 +1,15 @@
-import React from 'react';
+import React from "react";
 
-import NavItem from './NavItem';
+import NavItem from "./NavItem";
 
-import styled from 'styled-components';
-import { device } from '../styles/device';
+import styled from "styled-components";
+import { device } from "../styles/device";
 
-import menuJSON from '../data/menu.json';
+import menuJSON from "../data/menu.json";
 
-const MainNav = styled.nav`background-color: var(--link);`;
+const MainNav = styled.nav`
+  background-color: var(--link);
+`;
 
 const NavlistUl = styled.ul`
   display: none;
@@ -21,15 +23,15 @@ const NavlistUl = styled.ul`
 
 function Navbar() {
   return (
-    <MainNav className="primary">
+    <MainNav>
       <NavlistUl>
-        {menuJSON.results.map(res =>
+        {menuJSON.results.map(res => (
           <NavItem
             key={res.id}
             section={res.section}
             subsections={res.subsections}
-          />,
-        )}
+          />
+        ))}
       </NavlistUl>
     </MainNav>
   );

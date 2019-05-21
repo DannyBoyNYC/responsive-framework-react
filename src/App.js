@@ -12,9 +12,9 @@ body {
 }
 `;
 
-const theme = {
-  primary: "#bada55"
-};
+// const theme = {
+//   primary: "#bada55"
+// };
 
 const AppWrapper = styled.div`
   text-align: center;
