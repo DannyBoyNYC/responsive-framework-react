@@ -25,7 +25,7 @@ const NavlistUl = styled.ul`
 `;
 
 function Navbar() {
-  const { width } = useWindowDimensions();
+  // const { width } = useWindowDimensions();
   return (
     <MainNav>
       <NavlistUl>
@@ -37,7 +37,7 @@ function Navbar() {
             subsections={res.subsections}
           />
         ))}
-        {width > 200 && width < 1700 ? <ItemTwo /> : ""}
+        {/* {width > 200 && width < 1700 ? <ItemTwo /> : ""} */}
       </NavlistUl>
     </MainNav>
   );
