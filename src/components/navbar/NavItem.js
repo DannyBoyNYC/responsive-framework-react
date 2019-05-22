@@ -5,54 +5,54 @@ import SubMenu from "./Submenu";
 import styled from "styled-components";
 import { device } from "../styles/device";
 
-const NavitemLi = styled.li`
-  &.t-home,
-  &.t-barx,
-  &.t-commodities,
-  &.t-credit,
-  &.t-crossasset,
-  &.t-economics,
-  &.t-emergingmarkets,
-  &.t-equities,
-  &.t-fx,
-  &.t-indices,
-  &.t-rates,
-  &.t-municipals,
-  &.t-primeservices {
-    display: none;
-  }
-  @media ${device.tablet} {
-    &.t-home,
-    &.t-barx,
-    &.t-commodities,
-    &.t-credit,
-    &.t-crossasset,
-    &.t-economics,
-    &.t-emergingmarkets,
-    &.t-equities,
-    &.t-fx, 
-    &.t-indices {
-      display: block;
-      color: greenyellow !important;
-    }
-  {
-    @media ${device.desktop} {
-      &.t-home,
-      &.t-barx,
-      &.t-commodities,
-      &.t-credit,
-      &.t-crossasset,
-      &.t-economics,
-      &.t-emergingmarkets,
-      &.t-equities,
-      &.t-fx,
-      &.t-indices,
-      &.t-rates,
-      &.t-municipals,
-      &.t-primeservices {display: block;}
-    }
-  }
-`;
+// const NavitemLi = styled.li`
+//   &.t-home,
+//   &.t-barx,
+//   &.t-commodities,
+//   &.t-credit,
+//   &.t-crossasset,
+//   &.t-economics,
+//   &.t-emergingmarkets,
+//   &.t-equities,
+//   &.t-fx,
+//   &.t-indices,
+//   &.t-rates,
+//   &.t-municipals,
+//   &.t-primeservices {
+//     display: none;
+//   }
+//   @media ${device.tablet} {
+//     &.t-home,
+//     &.t-barx,
+//     &.t-commodities,
+//     &.t-credit,
+//     &.t-crossasset,
+//     &.t-economics,
+//     &.t-emergingmarkets,
+//     &.t-equities,
+//     &.t-fx,
+//     &.t-indices {
+//       display: block;
+//       color: greenyellow !important;
+//     }
+//   {
+//     @media ${device.desktop} {
+//       &.t-home,
+//       &.t-barx,
+//       &.t-commodities,
+//       &.t-credit,
+//       &.t-crossasset,
+//       &.t-economics,
+//       &.t-emergingmarkets,
+//       &.t-equities,
+//       &.t-fx,
+//       &.t-indices,
+//       &.t-rates,
+//       &.t-municipals,
+//       &.t-primeservices {display: block;}
+//     }
+//   }
+// `;
 
 const NavlinkA = styled.a`
   cursor: pointer;
@@ -95,7 +95,7 @@ function NavItem(props) {
   };
 
   return (
-    <NavitemLi
+    <li
       className={`t-${props.section.replace(" ", "").toLowerCase()}`}
       onMouseEnter={() => setVis((vis = !vis))}
       onMouseLeave={() => setVis((vis = !vis))}
@@ -110,7 +110,7 @@ function NavItem(props) {
           />
         ))}
       </DropdownUl>
-    </NavitemLi>
+    </li>
   );
 }
 
