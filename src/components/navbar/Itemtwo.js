@@ -7,7 +7,7 @@ const MenulinkA = styled.a`
 `;
 
 function ItemTwo(props) {
-  return <p>Yo finally!</p>;
+  return <a style={{ color: "white" }}>More </a>;
 }
 
 export default ItemTwo;

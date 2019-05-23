@@ -6,7 +6,7 @@ import ItemTwo from "./Itemtwo";
 import styled from "styled-components";
 import { device } from "../styles/device";
 
-import { useWindowDimensions } from "../responsive-component";
+import { useWindowDimensions } from "../windowDimensionsProvider";
 
 import menuJSON from "../data/menu.json";
 
@@ -25,19 +25,18 @@ const NavlistUl = styled.ul`
 `;
 
 function Navbar() {
-  // const { width } = useWindowDimensions();
+  const { width } = useWindowDimensions();
   return (
     <MainNav>
       <NavlistUl>
         {menuJSON.results.map(res => (
           <NavItem
-            // width={width}
             key={res.id}
             section={res.section}
             subsections={res.subsections}
           />
         ))}
-        {/* {width > 200 && width < 1700 ? <ItemTwo /> : ""} */}
+        {width > 200 && width < 1100 ? <ItemTwo /> : ""}
       </NavlistUl>
     </MainNav>
   );
