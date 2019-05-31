@@ -1,58 +1,9 @@
 // loading react and hooks
-import React, { useState, useEffect } from "react";
-import SubMenu from "./Submenu";
+import React, { useState, useEffect } from 'react';
+import SubMenu from './Submenu';
 // styled components
-import styled from "styled-components";
-import { device } from "../styles/device";
-
-// const NavitemLi = styled.li`
-//   &.t-home,
-//   &.t-barx,
-//   &.t-commodities,
-//   &.t-credit,
-//   &.t-crossasset,
-//   &.t-economics,
-//   &.t-emergingmarkets,
-//   &.t-equities,
-//   &.t-fx,
-//   &.t-indices,
-//   &.t-rates,
-//   &.t-municipals,
-//   &.t-primeservices {
-//     display: none;
-//   }
-//   @media ${device.tablet} {
-//     &.t-home,
-//     &.t-barx,
-//     &.t-commodities,
-//     &.t-credit,
-//     &.t-crossasset,
-//     &.t-economics,
-//     &.t-emergingmarkets,
-//     &.t-equities,
-//     &.t-fx,
-//     &.t-indices {
-//       display: block;
-//       color: greenyellow !important;
-//     }
-//   {
-//     @media ${device.desktop} {
-//       &.t-home,
-//       &.t-barx,
-//       &.t-commodities,
-//       &.t-credit,
-//       &.t-crossasset,
-//       &.t-economics,
-//       &.t-emergingmarkets,
-//       &.t-equities,
-//       &.t-fx,
-//       &.t-indices,
-//       &.t-rates,
-//       &.t-municipals,
-//       &.t-primeservices {display: block;}
-//     }
-//   }
-// `;
+import styled from 'styled-components';
+import { device } from '../styles/device';
 
 const NavlinkA = styled.a`
   cursor: pointer;
@@ -91,24 +42,26 @@ function NavItem(props) {
 
   const menuController = event => {
     event.preventDefault();
-    console.log("props.section");
+    console.log('props.section');
   };
 
   return (
     <li
-      className={`t-${props.section.replace(" ", "").toLowerCase()}`}
+      className={`t-${props.section.replace(' ', '').toLowerCase()}`}
       onMouseEnter={() => setVis((vis = !vis))}
       onMouseLeave={() => setVis((vis = !vis))}
     >
-      <NavlinkA onClick={() => menuController}>{props.section}</NavlinkA>
-      <DropdownUl className={vis ? "" : "hidden"}>
-        {Object.keys(props.subsections).map((subSec, key) => (
+      <NavlinkA onClick={() => menuController}>
+        {props.section}
+      </NavlinkA>
+      <DropdownUl className={vis ? '' : 'hidden'}>
+        {Object.keys(props.subsections).map((subSec, key) =>
           <SubMenu
             key={key}
             subSec={subSec}
             links={props.subsections[subSec]}
-          />
-        ))}
+          />,
+        )}
       </DropdownUl>
     </li>
   );

@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import Item from './Item';
 const MenuitemsLi = styled.li`
   padding-right: 1.5rem;
+  flex: 1;
   // flex-basis: 120px;
 `;
 const MenuHeaderSpan = styled.span`
