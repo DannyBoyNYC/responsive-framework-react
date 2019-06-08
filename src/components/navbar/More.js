@@ -1,13 +1,13 @@
 import React from "react";
-import styled from "styled-components";
 
-const MenulinkA = styled.a`
-  display: inline-block;
-  padding: 0.25rem 0;
-`;
+import { NavlinkA } from "./styles";
 
 function ItemTwo(props) {
-  return <a style={{ color: "white" }}>More </a>;
+  return (
+    <li>
+      <NavlinkA style={{ color: "white" }}>More &raquo;</NavlinkA>
+    </li>
+  );
 }
 
 export default ItemTwo;

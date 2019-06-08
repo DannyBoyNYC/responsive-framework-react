@@ -1,10 +1,6 @@
 import React from "react";
-import styled from "styled-components";
 
-const MenulinkA = styled.a`
-  display: inline-block;
-  padding: 0.25rem 0;
-`;
+import { MenulinkA } from "./styles";
 
 function SubmenuItem(props) {
   return (
