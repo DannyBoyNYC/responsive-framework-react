@@ -13,7 +13,7 @@ export const GlobalStyles = createGlobalStyle`
   --light-gray: #999999;
   --lightest-gray: #bbbbbb;
 }
-box-sizing: border-box;
+
 * {
   margin: 0;
   padding: 0;
@@ -24,6 +24,7 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
 body {
   font-family: 'Source Sans Pro', Helvetica, Clean, sans-serif;
   color: var(--dark-gray)

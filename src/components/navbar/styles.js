@@ -21,14 +21,6 @@ export const NavlistUl = styled.ul`
     .t-indices {
       display: none;
     }
-    .t-equities ul,
-    .t-fx ul,
-    .t-primeservices ul,
-    .t-municipals ul,
-    .t-rates ul,
-    .t-indices ul {
-      right: 1rem;
-    }
   }
   @media ${device.desktopSm} {
     // 980px
@@ -51,7 +43,48 @@ export const NavlistUl = styled.ul`
   }
 `;
 
-// navitems
+// NAVITEMS
+export const NavLinkLi = styled.li`
+  position: relative;
+  height: 46px;
+  &.active {
+    background-color: white;
+    border-top: 1px solid var(--link);
+    height: 46px;
+    a {
+      color: var(--link);
+    }
+  }
+  &.t-home ul,
+  &.t-barx ul,
+  &.t-commodities ul,
+  &.t-credit ul,
+  &.t-crossasset ul,
+  &.t-economics ul,
+  &.t-emergingmarkets ul {
+    left: -1px;
+  }
+  &.t-equities ul,
+  &.t-fx ul,
+  &.t-primeservices ul,
+  &.t-municipals ul,
+  &.t-rates ul,
+  &.t-indices ul {
+    right: -1px;
+  }
+  &.t-barx ul,
+  &.t-commodities ul {
+    columns: 1;
+    min-width: 200px;
+  }
+  &.t-crossasset > ul,
+  &.t-credit > ul,
+  &.t-equities > ul,
+  &.t-rates > ul {
+    columns: 3;
+    min-width: 600px;
+  }
+`;
 
 export const NavlinkA = styled.a`
   cursor: pointer;
@@ -66,17 +99,17 @@ export const NavlinkA = styled.a`
     // font-weight: bold;
   }
 `;
-
+// dropdown menu
 export const DropdownUl = styled.ul`
   position: absolute;
+  min-width: 400px;
   background-color: #fff;
   padding: 1rem;
   padding-top: 0.5rem;
   border: 1px solid var(--link);
   border-top-width: 0px;
-  // display: flex;
-  // flex-direction: row;
-  columns: 200px 2;
+  column-count: 2;
+  column-width: 140px;
   column-gap: 2rem;
   &.hidden {
     display: none;
@@ -84,22 +117,18 @@ export const DropdownUl = styled.ul`
 `;
 
 // FLYOUT MENUS
-
+// menu units inside flyouts
 export const MenuitemsLi = styled.li`
-  /* padding-right: 1.5rem; */
-  flex: 1;
-  /* flex-basis: 120px; */
   break-inside: avoid;
 `;
-// column headers
+// column headers in flyouts
 export const MenuHeaderSpan = styled.span`
   display: inline-block;
-  padding: 0.75rem 0 0.15rem 0;
+  padding: 0.75rem 0 0.25rem 0;
   font-weight: 600;
 `;
 
 // flyout link
-
 export const MenulinkA = styled.a`
   display: inline-block;
   padding: 0.25rem 0;

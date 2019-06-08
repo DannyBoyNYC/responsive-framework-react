@@ -2,23 +2,25 @@
 import React, { useState, useEffect } from 'react';
 import SubMenu from './Submenu';
 // styled components
-import { NavlinkA, DropdownUl } from './styles';
+import { NavLinkLi, NavlinkA, DropdownUl } from './styles';
 
 function NavItem(props) {
   let [vis, setVis] = useState(false);
 
   useEffect(() => {
-    console.log(props.section);
+    // console.log(props.section);
   });
 
   const menuController = event => {
+    console.log(event);
     event.preventDefault();
     console.log('props.section');
   };
 
   return (
-    <li
-      className={`t-${props.section.replace(' ', '').toLowerCase()}`}
+    <NavLinkLi
+      className={`t-${props.section.replace(' ', '').toLowerCase()} 
+      ${vis ? 'active' : ''}`}
       onMouseEnter={() => setVis((vis = !vis))}
       onMouseLeave={() => setVis((vis = !vis))}
     >
@@ -32,7 +34,7 @@ function NavItem(props) {
           />
         ))}
       </DropdownUl>
-    </li>
+    </NavLinkLi>
   );
 }
 
