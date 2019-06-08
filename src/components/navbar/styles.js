@@ -1,6 +1,5 @@
-import styled from "styled-components";
-
-import { device } from "../styles/device";
+import styled, { css } from 'styled-components';
+import { device } from '../styles/device';
 
 // navbar
 
@@ -52,18 +51,6 @@ export const NavlistUl = styled.ul`
   }
 `;
 
-// flyout menus
-
-export const MenuitemsLi = styled.li`
-  padding-right: 1.5rem;
-  flex: 1;
-  // flex-basis: 120px;
-`;
-export const MenuHeaderSpan = styled.span`
-  display: inline-block;
-  padding-bottom: 0.5rem;
-`;
-
 // navitems
 
 export const NavlinkA = styled.a`
@@ -84,25 +71,34 @@ export const DropdownUl = styled.ul`
   position: absolute;
   background-color: #fff;
   padding: 1rem;
+  padding-top: 0.5rem;
   border: 1px solid var(--link);
   border-top-width: 0px;
   // display: flex;
   // flex-direction: row;
   columns: 200px 2;
-  column-gap: 1rem;
+  column-gap: 2rem;
   &.hidden {
     display: none;
   }
-  > li {
-    // break-after: avoid-column;
-    color: red !important;
-    a {
-      color: red !important;
-    }
-  }
 `;
 
-// item
+// FLYOUT MENUS
+
+export const MenuitemsLi = styled.li`
+  /* padding-right: 1.5rem; */
+  flex: 1;
+  /* flex-basis: 120px; */
+  break-inside: avoid;
+`;
+// column headers
+export const MenuHeaderSpan = styled.span`
+  display: inline-block;
+  padding: 0.75rem 0 0.15rem 0;
+  font-weight: 600;
+`;
+
+// flyout link
 
 export const MenulinkA = styled.a`
   display: inline-block;
