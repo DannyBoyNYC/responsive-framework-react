@@ -1,8 +1,9 @@
-import React from "react";
+// each section in the drop down
+import React from 'react';
 
-import Item from "./Item";
+import Item from './Item';
 
-import { MenuitemsLi, MenuHeaderSpan } from "./styles";
+import { MenuitemsLi, MenuHeaderSpan } from './styles';
 
 function SubmenuItem(props) {
   return (
