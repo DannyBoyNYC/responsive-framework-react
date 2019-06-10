@@ -3,12 +3,15 @@ import Flyout from './flyout/Flyout';
 import { HamContainer, HamBox, HamInner } from './styles';
 
 function Hamburger(props) {
-  let [vis, setVis] = useState(false);
-
+  // let [vis, setVis] = useState(false);
+  const [state, setState] = useState({
+    vis: false,
+  });
   return (
-    <div onClick={() => setVis((vis = !vis))}>
-      {vis ? (
-        <Flyout setVis={setVis} menuJSON={props.menuJSON} />
+    <div onClick={() => setState((state.vis = !state.vis))}>
+      {state.vis ? (
+        // <Flyout setVis={setVis} menuJSON={props.menuJSON} />
+        ''
       ) : (
         <HamContainer>
           <HamBox>
