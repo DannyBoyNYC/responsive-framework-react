@@ -6,10 +6,10 @@ import Hamburger from './Hamburger';
 import Logo from './Logo';
 import Utilities from './Utilities';
 
-function Head() {
+function Head(props) {
   return (
     <HeadMain>
-      <Hamburger />
+      <Hamburger menuJSON={props.menuJSON} />
       <Logo />
       <Utilities />
     </HeadMain>

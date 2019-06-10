@@ -17,6 +17,8 @@ export const HeadMain = styled.div`
 
 // Hamburger
 export const HamContainer = styled.button`
+  width: 48px;
+  height: 32px;
   display: block;
   padding: 8px 14px;
   cursor: pointer;

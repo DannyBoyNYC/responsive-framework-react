@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 // import styled, { css } from "styled-components";
-import { NavLinkLi, DropdownUl, NavlinkA } from './styles';
+import { NavLinkLi, DropdownUl } from './styles';
 
 function More(props) {
   let [vis, setVis] = useState(false);
@@ -17,9 +17,9 @@ function More(props) {
   );
 
   useEffect(() => {
-    console.log(section);
-    var test = document.querySelector('t-home');
-    console.log(test);
+    // console.log(section);
+    // var test = document.querySelector('t-home');
+    // console.log(test);
   });
 
   return (
@@ -30,7 +30,9 @@ function More(props) {
       onMouseEnter={() => setVis((vis = !vis))}
       onMouseLeave={() => setVis((vis = !vis))}
     >
-      <a onClick={() => setSection((section = !section))}>{SVG}</a>
+      <a onClick={() => setSection((section = !section))} href="#0">
+        {SVG}
+      </a>
 
       <DropdownUl className={vis ? '' : 'hidden'}>
         {section ? 'true' : 'false'}

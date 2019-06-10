@@ -1,13 +1,21 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Flyout from './flyout/Flyout';
 import { HamContainer, HamBox, HamInner } from './styles';
 
-function Hamburger() {
+function Hamburger(props) {
+  let [vis, setVis] = useState(false);
   return (
-    <HamContainer>
-      <HamBox>
-        <HamInner />
-      </HamBox>
-    </HamContainer>
+    <div onClick={() => setVis((vis = !vis))}>
+      {vis ? (
+        <Flyout setVis={setVis} menuJSON={props.menuJSON} />
+      ) : (
+        <HamContainer>
+          <HamBox>
+            <HamInner />
+          </HamBox>
+        </HamContainer>
+      )}
+    </div>
   );
 }
 

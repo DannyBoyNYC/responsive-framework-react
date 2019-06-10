@@ -7,14 +7,12 @@ import More from './More';
 import { useWindowDimensions } from '../windowDimensionsProvider';
 import { MainNav, NavlistUl } from './styles';
 
-import menuJSON from '../data/menu.json';
-
-function Navbar() {
+function Navbar(props) {
   const { width } = useWindowDimensions();
   return (
     <MainNav>
       <NavlistUl>
-        {menuJSON.results.map(res => (
+        {props.menuJSON.results.map(res => (
           // NavItem.js
           <NavItem
             key={res.id}
@@ -23,7 +21,7 @@ function Navbar() {
           />
         ))}
         {/* the More.js  component*/}
-        {width > 760 && width < 1140 ? <More sections={menuJSON} /> : ''}
+        {width > 760 && width < 1140 ? <More sections={props.menuJSON} /> : ''}
       </NavlistUl>
     </MainNav>
   );

@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react';
 
-import Head from "./Head";
+import Head from './Head';
 
-function Header() {
+function Header(props) {
   return (
     <header>
-      <Head />
+      <Head menuJSON={props.menuJSON} />
     </header>
   );
 }
