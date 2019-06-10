@@ -1,15 +1,15 @@
-import React from "react";
-import User from "./User";
-import styled from "styled-components";
+import React from 'react';
+import User from './User';
+import styled from 'styled-components';
 
-import { device } from "../styles/device";
+import { device } from '../styles/device';
 
-import search from "../art/search.svg";
-import watchlist from "../art/watchlist.svg";
-import briefcase from "../art/briefcase.svg";
-import connect from "../art/connect.svg";
+import search from '../art/search.svg';
+import watchlist from '../art/watchlist.svg';
+import briefcase from '../art/briefcase.svg';
+import connect from '../art/connect.svg';
 
-const utilities = ["search", "watchlist", "briefcase", "connect"];
+const utilities = ['search', 'watchlist', 'briefcase', 'connect'];
 
 const UtilityContainer = styled.ul`
   display: flex;
@@ -55,9 +55,9 @@ function Utilities() {
     <UtilityContainer>
       {utilities.map(util => (
         <UtilityListItem key={util}>
-          <a className={util} href='#0'>
-            <span className='util-icon' />
-            <span className='util-title'>
+          <a className={util} href="#0">
+            <span className="util-icon" />
+            <span className="util-title">
               {util.charAt(0).toUpperCase() + util.slice(1)}
             </span>
           </a>

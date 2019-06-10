@@ -1,5 +1,5 @@
-import styled, { css } from "styled-components";
-import { device } from "../styles/device";
+import styled, { css } from 'styled-components';
+import { device } from '../styles/device';
 
 // navbar
 
@@ -69,7 +69,8 @@ export const NavLinkLi = styled.li`
   &.t-primeservices ul,
   &.t-municipals ul,
   &.t-rates ul,
-  &.t-indices ul {
+  &.t-indices ul,
+  &.more ul {
     right: -1px;
   }
   &.t-barx ul,
@@ -84,11 +85,6 @@ export const NavLinkLi = styled.li`
     columns: 3;
     min-width: 600px;
   }
-  /* svg {
-    background: red !important;
-    width: 16px;
-    height: 16px;
-  } */
 `;
 
 export const NavlinkA = styled.a`
