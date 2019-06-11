@@ -20,15 +20,12 @@ function SideNavItem(props) {
   let [vis, setVis] = useState(false);
 
   return (
-    <ul>
+    <ul
+      onMouseEnter={() => setVis((vis = !vis))}
+      onMouseLeave={() => setVis((vis = !vis))}
+    >
       <li>
-        <FlyHeadA
-          href="#00"
-          onMouseEnter={() => setVis((vis = !vis))}
-          onMouseLeave={() => setVis((vis = !vis))}
-        >
-          {props.section}
-        </FlyHeadA>
+        <FlyHeadA href="#00">{props.section}</FlyHeadA>
         <FlexUl className={vis ? '' : 'hidden'}>
           {Object.keys(props.subsections).map((subSec, key) => (
             <NewItem key={key} subSections={subSec} data={props.subsections} />
