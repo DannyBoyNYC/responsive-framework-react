@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 import styled from 'styled-components';
 
-import { Flexul } from '../styles';
+import { FlexUl } from '../styles';
 
 const FlyHeadA = styled.a`
   display: inline-block;
@@ -29,11 +29,11 @@ function SideNavItem(props) {
         >
           {props.section}
         </FlyHeadA>
-        <Flexul className={vis ? '' : 'hidden'}>
+        <FlexUl className={vis ? '' : 'hidden'}>
           {Object.keys(props.subsections).map((subSec, key) => (
             <NewItem key={key} subSections={subSec} data={props.subsections} />
           ))}
-        </Flexul>
+        </FlexUl>
       </li>
     </ul>
   );

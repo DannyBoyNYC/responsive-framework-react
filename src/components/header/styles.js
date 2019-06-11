@@ -130,7 +130,7 @@ export const UserLink = styled.a`
 `;
 
 // sidenav
-export const Flexul = styled.ul`
+export const FlexUl = styled.ul`
   display: flex;
   &.hidden {
     display: none;
