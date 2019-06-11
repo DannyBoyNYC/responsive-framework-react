@@ -18,7 +18,7 @@ const FlyoutDiv = styled.div`
   z-index: 1000;
   top: 0;
   left: 0;
-  width: 50vh;
+  width: 100vh;
   height: 100vh;
   padding: 1rem;
 `;

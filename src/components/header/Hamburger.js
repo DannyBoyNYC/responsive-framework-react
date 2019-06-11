@@ -3,7 +3,7 @@ import Flyout from './flyout/Flyout';
 import { HamContainer, HamBox, HamInner } from './styles';
 
 function Hamburger(props) {
-  let [vis, setVis] = useState(false);
+  let [vis, setVis] = useState(true);
 
   return (
     <div onClick={() => setVis((vis = !vis))}>

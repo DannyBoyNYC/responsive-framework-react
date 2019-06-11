@@ -128,3 +128,11 @@ export const UserLink = styled.a`
     padding-top: 0.2rem;
   }
 `;
+
+// sidenav
+export const Flexul = styled.ul`
+  display: flex;
+  &.hidden {
+    display: none;
+  }
+`;
