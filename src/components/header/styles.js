@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { keyframes } from 'styled-components';
 import { device } from '../styles/device';
 
 import search from '../art/search.svg';
@@ -13,10 +13,13 @@ export const HeadMain = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  // position: fixed;
+  // z-index: 900;
+  // width: 100vh;
 `;
 
 // Hamburger
-export const HamContainer = styled.button`
+export const HamContainerBtn = styled.button`
   width: 48px;
   height: 32px;
   display: block;
@@ -29,14 +32,14 @@ export const HamContainer = styled.button`
   }
 `;
 
-export const HamBox = styled.span`
+export const HamOuterSpan = styled.span`
   width: 20px;
   height: 14px;
   display: inline-block;
   position: relative;
 `;
 
-export const HamInner = styled.span`
+export const HamInnerSpan = styled.span`
   width: 20px;
   height: 2px;
   background-color: var(--light-gray);
@@ -152,4 +155,41 @@ export const FlySubSpan = styled.span`
   color: #333;
   font-weight: 600;
   padding-bottom: 0.25rem;
+`;
+
+// Flyout - sidenav
+
+const FlyoutKeyframes = keyframes`
+  0% {
+    transform: translate(-700px, 0)
+  }
+  100% {
+    transform: translate(0, 0)
+  }
+`;
+
+export const FlyoutDiv = styled.div`
+  background-color: var(--link);
+  position: absolute;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100vh;
+  height: 100vh;
+  padding: 1rem;
+  animation-name: ${FlyoutKeyframes};
+  animation-duration: 0.45s;
+  animation-timing-function: cubic-bezier(0.22, 0.26, 0.5, 1.2),
+    cubic-bezier(0.29, 0.22, 0.5, 1.2);
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+  animation-play-state: running;
+`;
+
+export const CloserDiv = styled.div`
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
 `;

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Flyout from './flyout/Flyout';
-import { HamContainer, HamBox, HamInner } from './styles';
+import { HamContainerBtn, HamOuterSpan, HamInnerSpan } from './styles';
 
 function Hamburger(props) {
   let [vis, setVis] = useState(true);
@@ -10,11 +10,11 @@ function Hamburger(props) {
       {vis ? (
         <Flyout setVis={setVis} menuJSON={props.menuJSON} />
       ) : (
-        <HamContainer onClick={() => setVis((vis = !vis))}>
-          <HamBox>
-            <HamInner />
-          </HamBox>
-        </HamContainer>
+        <HamContainerBtn onClick={() => setVis((vis = !vis))}>
+          <HamOuterSpan>
+            <HamInnerSpan />
+          </HamOuterSpan>
+        </HamContainerBtn>
       )}
     </>
   );

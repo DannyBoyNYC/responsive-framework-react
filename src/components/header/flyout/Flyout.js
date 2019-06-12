@@ -1,8 +1,9 @@
 import React from 'react';
-import styled from 'styled-components';
-import SideNavItem from './SideNavItem';
 
+import SideNavItem from './SideNavItem';
 import Logo from '../Logo';
+
+import { FlyoutDiv, CloserDiv } from '../styles';
 
 const SVG = (
   <svg width="32" height="32" viewBox="0 0 32 32">
@@ -13,23 +14,6 @@ const SVG = (
     />
   </svg>
 );
-
-const FlyoutDiv = styled.div`
-  background-color: var(--link);
-  position: absolute;
-  z-index: 1000;
-  top: 0;
-  left: 0;
-  width: 100vh;
-  height: 100vh;
-  padding: 1rem;
-`;
-
-const closerStyle = {
-  position: 'absolute',
-  top: '1rem',
-  right: '1rem',
-};
 
 function Flyout(props) {
   return (
@@ -43,11 +27,11 @@ function Flyout(props) {
         />
       ))}
 
-      <div className="close" style={closerStyle}>
+      <CloserDiv className="close">
         <a href="#0" onClick={() => props.setVis()}>
           {SVG}
         </a>
-      </div>
+      </CloserDiv>
     </FlyoutDiv>
   );
 }
