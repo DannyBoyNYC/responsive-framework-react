@@ -24,8 +24,8 @@ function SideNavItem(props) {
       <li>
         <FlyHeadA
           href="#00"
-          onMouseEnter={() => setVis((vis = !vis))}
-          onMouseLeave={() => setVis((vis = !vis))}
+          onClick={() => setVis((vis = !vis))}
+          // onMouseLeave={() => setVis((vis = !vis))}
         >
           {props.section}
         </FlyHeadA>

@@ -3,10 +3,10 @@ import Flyout from './flyout/Flyout';
 import { HamContainer, HamBox, HamInner } from './styles';
 
 function Hamburger(props) {
-  let [vis, setVis] = useState(false);
+  let [vis, setVis] = useState(true);
 
   return (
-    <div href="#0">
+    <>
       {vis ? (
         <Flyout setVis={setVis} menuJSON={props.menuJSON} />
       ) : (
@@ -16,7 +16,7 @@ function Hamburger(props) {
           </HamBox>
         </HamContainer>
       )}
-    </div>
+    </>
   );
 }
 
