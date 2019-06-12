@@ -132,7 +132,24 @@ export const UserLink = styled.a`
 // sidenav
 export const FlexUl = styled.ul`
   display: flex;
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #fff;
   &.hidden {
     display: none;
   }
+`;
+
+export const FlyHeadA = styled.a`
+  display: inline-block;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.5rem;
+`;
+
+export const FlySubSpan = styled.span`
+  display: inline-block;
+  color: #333;
+  font-weight: 600;
+  padding-bottom: 0.25rem;
 `;
