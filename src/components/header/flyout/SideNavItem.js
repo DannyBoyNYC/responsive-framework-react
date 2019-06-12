@@ -22,11 +22,7 @@ function SideNavItem(props) {
   return (
     <ul>
       <li>
-        <FlyHeadA
-          href="#00"
-          onClick={() => setVis((vis = !vis))}
-          // onMouseLeave={() => setVis((vis = !vis))}
-        >
+        <FlyHeadA href="#00" onClick={() => setVis((vis = !vis))}>
           {props.section}
         </FlyHeadA>
         <FlexUl className={vis ? '' : 'hidden'}>
