@@ -1,20 +1,7 @@
 // the navbar components and their drop downs
 import React, { useState } from 'react';
 
-import styled from 'styled-components';
-
-import { FlexUl } from '../styles';
-
-const FlyHeadA = styled.a`
-  display: inline-block;
-  color: #fff;
-  font-weight: 600;
-  padding: 0.5rem;
-`;
-
-const FlySubSpan = styled.span`
-  color: #eee;
-`;
+import { FlexUl, FlyHeadA, FlySubSpan } from '../styles';
 
 function SideNavItem(props) {
   let [vis, setVis] = useState(false);
@@ -22,11 +9,7 @@ function SideNavItem(props) {
   return (
     <ul>
       <li>
-        <FlyHeadA
-          href="#00"
-          onMouseEnter={() => setVis((vis = !vis))}
-          onMouseLeave={() => setVis((vis = !vis))}
-        >
+        <FlyHeadA href="#00" onClick={() => setVis((vis = !vis))}>
           {props.section}
         </FlyHeadA>
         <FlexUl className={vis ? '' : 'hidden'}>
@@ -41,12 +24,12 @@ function SideNavItem(props) {
 
 function NewItem(props) {
   return (
-    <li>
+    <li style={{ flex: 1 }}>
       <FlySubSpan>{props.subSections}</FlySubSpan>
       <ul>
         {Object.entries(props.data[props.subSections]).map(([key, value]) => (
           <li key={key}>
-            <a style={{ color: '#bbb' }} href="{value}">
+            <a style={{ color: '#333' }} href="{value}">
               {value}
             </a>
           </li>
