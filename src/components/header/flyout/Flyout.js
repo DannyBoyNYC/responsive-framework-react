@@ -31,7 +31,7 @@ const closerStyle = {
 
 function Flyout(props) {
   const [state, setState] = useState({
-    vis: false,
+    vis: true,
   });
 
   const handleVisibility = e => {
