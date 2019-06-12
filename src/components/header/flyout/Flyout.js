@@ -30,15 +30,6 @@ const closerStyle = {
 };
 
 function Flyout(props) {
-  const [state, setState] = useState({
-    vis: true,
-  });
-
-  const handleVisibility = e => {
-    e.preventDefault();
-    setState((state.vis = !state.vis));
-  };
-
   return (
     <FlyoutDiv className="flyout">
       {props.menuJSON.results.map(res => (
@@ -50,7 +41,7 @@ function Flyout(props) {
       ))}
 
       <div className="close" style={closerStyle}>
-        <a href="#0" onClick={() => handleVisibility}>
+        <a href="#0" onClick={() => props.setVis()}>
           {SVG}
         </a>
       </div>
