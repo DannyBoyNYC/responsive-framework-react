@@ -77,7 +77,7 @@ export const HamInnerSpan = styled.span`
 // Logo
 export const LogoArt = styled.div`
   width: 32px;
-  @media ${device.mobile} {
+  @media ${device.tablet} {
     width: 275px;
     margin-right: auto;
     display: block;
