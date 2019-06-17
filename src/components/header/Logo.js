@@ -7,7 +7,7 @@ import { ReactComponent as LogoTypeWhite } from '../art/logo-white.svg';
 
 function Logo(props) {
   return (
-    <LogoArt>
+    <LogoArt className="logo">
       {props.color ? <LogoTypeWhite /> : <LogoType color={props.color} />}
     </LogoArt>
   );

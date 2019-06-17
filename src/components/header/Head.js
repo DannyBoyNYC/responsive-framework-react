@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { HeadMain } from './styles';
+import { HeadMainDiv } from './styles';
 
 import Hamburger from './Hamburger';
 import Logo from './Logo';
@@ -8,11 +8,11 @@ import Utilities from './Utilities';
 
 function Head(props) {
   return (
-    <HeadMain>
+    <HeadMainDiv className="head">
       <Hamburger menuJSON={props.menuJSON} />
       <Logo />
       <Utilities />
-    </HeadMain>
+    </HeadMainDiv>
   );
 }
 

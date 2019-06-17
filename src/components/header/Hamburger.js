@@ -10,7 +10,10 @@ function Hamburger(props) {
       {vis ? (
         <Flyout setVis={setVis} menuJSON={props.menuJSON} />
       ) : (
-        <HamContainerBtn onClick={() => setVis((vis = !vis))}>
+        <HamContainerBtn
+          onClick={() => setVis((vis = !vis))}
+          className="hamburger"
+        >
           <HamOuterSpan>
             <HamInnerSpan />
           </HamOuterSpan>

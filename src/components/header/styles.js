@@ -16,7 +16,7 @@ export const MainHeader = styled.header`
   border-bottom: 1px solid var(--link);
 `;
 // Head
-export const HeadMain = styled.div`
+export const HeadMainDiv = styled.div`
   background-color: #fff;
   min-height: 3rem;
   display: flex;
@@ -87,7 +87,7 @@ export const LogoArt = styled.div`
 `;
 
 // Utilities
-export const UtilityContainer = styled.ul`
+export const UtilityContainerUl = styled.ul`
   display: flex;
   white-space: nowrap;
   height: 22px;
@@ -201,7 +201,7 @@ export const FlyoutDiv = styled.div`
   height: 100vh;
   padding: 1rem;
   animation-name: ${FlyoutKeyframes};
-  animation-duration: 0.45s;
+  animation-duration: 0.25s;
   animation-timing-function: cubic-bezier(0.37, 0.26, 0.6, 0.85),
     cubic-bezier(0.29, 0.22, 0.5, 1.2);
   animation-delay: 0s;

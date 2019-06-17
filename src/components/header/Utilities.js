@@ -1,13 +1,13 @@
 import React from 'react';
 import User from './User';
 
-import { UtilityContainer, UtilityListItem } from './styles';
+import { UtilityContainerUl, UtilityListItem } from './styles';
 
 const utilities = ['search', 'watchlist', 'briefcase', 'connect'];
 
 function Utilities() {
   return (
-    <UtilityContainer>
+    <UtilityContainerUl className="utilities">
       {utilities.map(util => (
         <UtilityListItem key={util}>
           <a className={util} href="#0">
@@ -19,7 +19,7 @@ function Utilities() {
         </UtilityListItem>
       ))}
       <User />
-    </UtilityContainer>
+    </UtilityContainerUl>
   );
 }
 
