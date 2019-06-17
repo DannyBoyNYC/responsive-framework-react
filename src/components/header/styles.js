@@ -135,11 +135,25 @@ export const UserLink = styled.a`
 // sidenav
 export const FlexUl = styled.ul`
   display: flex;
-  width: 100%;
+  max-width: 100%;
+  max-height: 2000px
   padding: 0.5rem;
   background-color: #fff;
+  border-radius: 2px;
+  transition: all 0.2s linear;
   &.hidden {
-    display: none;
+    // display: none;
+    max-width: 0;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    padding: 0;
+  }
+  @media ${device.tablet} {
+    position: absolute;
+    left: 200px;
+    top: 70px;
+    width: calc(100% - 240px);
   }
 `;
 
@@ -174,7 +188,7 @@ export const FlyoutDiv = styled.div`
   z-index: 1000;
   top: 0;
   left: 0;
-  width: 100vh;
+  width: 100%;
   height: 100vh;
   padding: 1rem;
   animation-name: ${FlyoutKeyframes};
@@ -186,6 +200,9 @@ export const FlyoutDiv = styled.div`
   animation-direction: normal;
   animation-fill-mode: forwards;
   animation-play-state: running;
+  @media ${device.tablet} {
+    // background-color: red;s
+  }
 `;
 
 export const CloserDiv = styled.div`
