@@ -28,7 +28,7 @@ function NewItem(props) {
       <FlySubSpan>{props.subSections}</FlySubSpan>
       <ul>
         {Object.entries(props.data[props.subSections]).map(([key, value]) => (
-          <li key={key}>
+          <li key={key} style={{ paddingBottom: '0.25' + 'rem' }}>
             <a style={{ color: '#333' }} href="{value}">
               {value}
             </a>

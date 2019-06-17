@@ -1,12 +1,12 @@
 import React from 'react';
-
 import Head from './Head';
+import { MainHeader } from './styles';
 
 function Header(props) {
   return (
-    <header>
+    <MainHeader>
       <Head menuJSON={props.menuJSON} />
-    </header>
+    </MainHeader>
   );
 }
 

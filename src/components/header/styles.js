@@ -6,6 +6,15 @@ import watchlist from '../art/watchlist.svg';
 import briefcase from '../art/briefcase.svg';
 import connect from '../art/connect.svg';
 
+// Header
+export const MainHeader = styled.header`
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  border-bottom: 1px solid var(--link);
+`;
 // Head
 export const HeadMain = styled.div`
   background-color: #fff;
@@ -193,7 +202,7 @@ export const FlyoutDiv = styled.div`
   padding: 1rem;
   animation-name: ${FlyoutKeyframes};
   animation-duration: 0.45s;
-  animation-timing-function: cubic-bezier(0.22, 0.26, 0.5, 1.2),
+  animation-timing-function: cubic-bezier(0.37, 0.26, 0.6, 0.85),
     cubic-bezier(0.29, 0.22, 0.5, 1.2);
   animation-delay: 0s;
   animation-iteration-count: 1;

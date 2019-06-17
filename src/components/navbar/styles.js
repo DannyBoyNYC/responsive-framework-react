@@ -4,6 +4,7 @@ import { device } from '../styles/device';
 // navbar
 
 export const MainNav = styled.nav`
+  margin-top: 48px;
   background-color: var(--link);
 `;
 

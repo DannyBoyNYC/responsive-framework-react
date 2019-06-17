@@ -3,7 +3,7 @@ import Flyout from './flyout/Flyout';
 import { HamContainerBtn, HamOuterSpan, HamInnerSpan } from './styles';
 
 function Hamburger(props) {
-  let [vis, setVis] = useState(true);
+  let [vis, setVis] = useState(false);
 
   return (
     <>
