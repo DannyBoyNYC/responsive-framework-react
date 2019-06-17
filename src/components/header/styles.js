@@ -200,6 +200,10 @@ export const FlyoutDiv = styled.div`
   width: 100%;
   height: 100vh;
   padding: 1rem;
+  // HERE
+  @media ${device.tablet} {
+    min-width: 600px;
+  }
   animation-name: ${FlyoutKeyframes};
   animation-duration: 0.25s;
   animation-timing-function: cubic-bezier(0.37, 0.26, 0.6, 0.85),
