@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 // import styled, { css } from "styled-components";
 import { NavLinkLi, DropdownUl } from './styles';
+import { useWindowDimensions } from '../windowDimensionsProvider';
 
 function More(props) {
   let [vis, setVis] = useState(false);
@@ -17,7 +18,7 @@ function More(props) {
   );
 
   useEffect(() => {
-    // console.log(section);
+    console.log(section);
     // var test = document.querySelector('t-home');
     // console.log(test);
   });
@@ -26,9 +27,7 @@ function More(props) {
     <NavLinkLi
       className="more"
       style={{ display: 'flex', alignItems: 'center', alignContent: 'center' }}
-      // ${vis ? 'active' : ''}`}
-      onMouseEnter={() => setVis((vis = !vis))}
-      onMouseLeave={() => setVis((vis = !vis))}
+      onClick={() => setVis((vis = !vis))}
     >
       <a onClick={() => setSection((section = !section))} href="#0">
         {SVG}

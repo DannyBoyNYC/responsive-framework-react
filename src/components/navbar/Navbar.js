@@ -1,6 +1,5 @@
 // the blue nav bar
 import React from 'react';
-
 import NavItem from './NavItem';
 import More from './More';
 
@@ -22,6 +21,7 @@ function Navbar(props) {
         ))}
         {/* the More.js  component*/}
         {width > 760 && width < 1140 ? <More sections={props.menuJSON} /> : ''}
+        {/* // 1140 */}
       </NavlistUl>
     </MainNav>
   );
